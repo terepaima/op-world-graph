@@ -140,3 +140,5 @@ vite.config.ts.timestamp-*
 
 # seed script cache
 /data/cache
+
+.vscode/

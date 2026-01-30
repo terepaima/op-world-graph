@@ -16,6 +16,8 @@
     "d3-quadtree": "^3.0.1",
     "d3-scale": "^4.0.2",
     "d3-zoom": "^3.0.0",
+    "lucide-react": "^0.563.0",
+    "motion": "^12.29.2",
     "next": "16.1.6",
     "react": "19.2.3",
     "react-dom": "19.2.3",
