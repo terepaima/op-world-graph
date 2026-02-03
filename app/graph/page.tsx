@@ -1,15 +1,17 @@
 "use client";
 
+import ControlsPanelContainer from "@/components/layout/ControlsPanelContainer";
+import DetailsPanelContainer from "@/components/layout/DetailsPanelContainer";
+import GraphStage from "@/components/layout/GraphStage";
+import { useState } from "react";
+
 export default function Home() {
+  const [detailsPanelsOpen, setDetailsPanelsOpen] = useState(true);
   return (
-    <div className="flex min-h-screen items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex min-h-screen w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
-        <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <h2 className="text-2xl font-semibold"> Graph Stage</h2>
-          <h2 className="text-2xl font-semibold">Details Panel</h2>
-          <h2 className="text-2xl font-semibold">Control Panel</h2>
-        </div>
-      </main>
+    <div className="flex min-h-screen items-center justify-center bg-zinc-50 font-sans dark:bg-pink-500">
+        <GraphStage />
+         <ControlsPanelContainer />
+        <DetailsPanelContainer isOpen={detailsPanelsOpen} onClose={() => setDetailsPanelsOpen(false)} />
     </div>
   );
 }
