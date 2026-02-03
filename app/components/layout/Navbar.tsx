@@ -2,12 +2,19 @@
 import { MenuIcon, XIcon } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
+import { useRouter } from 'next/navigation';
 import { useState } from "react";
 import { motion } from "motion/react";
 import { INavLink } from "../../types/types";
 import { navlinks } from "../../data/navlinks";
 export default function Navbar() {
     const [isOpen, setIsOpen] = useState(false);
+    const router = useRouter();
+
+    const onNavigate = (href: string) => {
+        setIsOpen(false);
+        router && router.push(href);
+    };
 
     return (
         <>
@@ -23,7 +30,7 @@ export default function Navbar() {
 
                 <div className="hidden md:flex items-center gap-8 transition duration-500">
                     {navlinks.map((link: INavLink) => (
-                        <Link key={link.name} href={link.href} className="hover:text-pink-500 transition">
+                        <Link onClick={() => onNavigate(link.href)} key={link.name} href={link.href} className="hover:text-pink-500 transition">
                             {link.name}
                         </Link>
                     ))}
@@ -36,11 +43,10 @@ export default function Navbar() {
                     <MenuIcon size={26} className="active:scale-90 transition" />
                 </button>
             </motion.nav>
-Control Panel
 
             <div className={`fixed inset-0 z-100 bg-black/40 backdrop-blur flex flex-col items-center justify-center text-lg gap-8 md:hidden transition-transform duration-400 ${isOpen ? "translate-x-0" : "-translate-x-full"}`}>
                 {navlinks.map((link: INavLink) => (
-                    <Link key={link.name} href={link.href} onNavigate={() => setIsOpen(false)}>
+                    <Link onClick={() => onNavigate(link.href)} key={link.name} href={link.href} onNavigate={() => setIsOpen(false)}>
                         {link.name}
                     </Link>
                 ))}
