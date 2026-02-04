@@ -1,6 +1,6 @@
-import { INavLink } from "@/types/types";
+import { INavLink } from '@/types/types';
 
 export const navlinks: INavLink[] = [
-    { name: "Home", href: "/" },
-    { name: "World", href: "/graph" },
+  { name: 'Home', href: '/' },
+  { name: 'World', href: '/graph' },
 ];

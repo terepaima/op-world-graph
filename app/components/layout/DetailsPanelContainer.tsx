@@ -1,11 +1,11 @@
-'use client'
+'use client';
 
-import { XIcon } from 'lucide-react'
-import { motion } from 'motion/react'
+import { XIcon } from 'lucide-react';
+import { motion } from 'motion/react';
 
 interface DetailsPanelContainerProps {
-  isOpen: boolean
-  onClose: () => void
+  isOpen: boolean;
+  onClose: () => void;
 }
 
 function DetailsPanelContainer({ isOpen, onClose }: DetailsPanelContainerProps) {
@@ -39,9 +39,7 @@ function DetailsPanelContainer({ isOpen, onClose }: DetailsPanelContainerProps) 
               <XIcon size={20} />
             </button>
           </div>
-          <div className="text-gray-600 dark:text-gray-400">
-            DetailsPanelContainer
-          </div>
+          <div className="text-gray-600 dark:text-gray-400">DetailsPanelContainer</div>
         </div>
       </motion.div>
 
@@ -68,7 +66,7 @@ function DetailsPanelContainer({ isOpen, onClose }: DetailsPanelContainerProps) 
         </div>
       </motion.div>
     </>
-  )
+  );
 }
 
-export default DetailsPanelContainer
+export default DetailsPanelContainer;

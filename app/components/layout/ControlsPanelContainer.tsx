@@ -1,9 +1,9 @@
-'use client'
-import { useState } from 'react'
-import { ChevronUp, ChevronDown } from 'lucide-react'
+'use client';
+import { useState } from 'react';
+import { ChevronUp, ChevronDown } from 'lucide-react';
 
 function ControlsPanelContainer() {
-  const [isOpen, setIsOpen] = useState(true)
+  const [isOpen, setIsOpen] = useState(true);
 
   return (
     <>
@@ -22,7 +22,7 @@ function ControlsPanelContainer() {
           </div>
         </div>
       )}
-      
+
       {!isOpen && (
         <button
           onClick={() => setIsOpen(true)}
@@ -32,7 +32,7 @@ function ControlsPanelContainer() {
         </button>
       )}
     </>
-  )
+  );
 }
 
-export default ControlsPanelContainer
+export default ControlsPanelContainer;
