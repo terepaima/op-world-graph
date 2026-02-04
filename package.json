@@ -13,7 +13,8 @@
     "format": "prettier --write .",
     "format:check": "prettier --check .",
     "prepare": "husky",
-    "lint:staged": "lint-staged --verbose"
+    "lint:staged": "lint-staged --verbose",
+    "typecheck": "tsc --noEmit"
   },
   "dependencies": {
     "d3-force": "^3.0.0",
