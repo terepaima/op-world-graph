@@ -35,3 +35,6 @@ Some goals to maintain during the development:
 ## Roadmap
 
 See GitHub Issues...
+
+## Dev notes:
+- `Prettier + Eslint` is installed to autoformat. Run manually with `pnpm run lint + pnpm run format`
