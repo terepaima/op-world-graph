@@ -1,0 +1,72 @@
+[
+  {
+    "source": "character:luffy",
+    "target": "character:shanks",
+    "type": "mentor",
+    "sinceArc": "East Blue",
+    "note": "Shanks is a defining mentor figure for Luffy."
+  },
+  {
+    "source": "character:zoro",
+    "target": "character:kuina",
+    "type": "rival",
+    "sinceArc": "East Blue",
+    "note": "Kuina is Zoro's early rival and motivation."
+  },
+  {
+    "source": "character:sanji",
+    "target": "character:zeff",
+    "type": "mentor",
+    "sinceArc": "East Blue",
+    "note": "Zeff mentors Sanji and shapes his values."
+  },
+  {
+    "source": "character:nami",
+    "target": "character:arlong",
+    "type": "enemy",
+    "sinceArc": "East Blue",
+    "note": "Arlong is Nami's main antagonist in her origin arc."
+  },
+  {
+    "source": "character:luffy",
+    "target": "character:blackbeard",
+    "type": "enemy",
+    "sinceArc": "Jaya",
+    "note": "Luffy and Blackbeard are opposing forces."
+  },
+  {
+    "source": "character:ace",
+    "target": "character:luffy",
+    "type": "family",
+    "sinceArc": "East Blue",
+    "note": "Brothers (sworn family)."
+  },
+  {
+    "source": "character:sabo",
+    "target": "character:luffy",
+    "type": "family",
+    "sinceArc": "East Blue",
+    "note": "Brothers (sworn family)."
+  },
+  {
+    "source": "character:garp",
+    "target": "character:luffy",
+    "type": "family",
+    "sinceArc": "Water 7",
+    "note": "Grandfather and grandson."
+  },
+  {
+    "source": "character:rayleigh",
+    "target": "character:luffy",
+    "type": "mentor",
+    "sinceArc": "Sabaody",
+    "note": "Rayleigh trains Luffy during the timeskip."
+  },
+  {
+    "source": "character:zoro",
+    "target": "character:mihawk",
+    "type": "mentor",
+    "sinceArc": "East Blue",
+    "note": "Mihawk becomes Zoro's training mentor."
+  }
+]

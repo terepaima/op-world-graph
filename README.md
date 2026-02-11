@@ -54,11 +54,49 @@ Open `data/seedCrews.json` and append:
 
 ```json
 { "crewId": "<api crew id>", "label": "<Human name>", "group": "<Optional grouping>" }
-
+```
 
 #### Step 2 — Rebuild the dataset:
+
 - pnpm data:build
 
 #### Step 3 — Verify in the app:
+
 Start the app and confirm the crew appears on /graph.
+
+## Curated relationships (data/edges.curated.json)
+
+Curated edges are handcrafted relationships that go beyond automatic membership links.
+
+### Format
+
+`data/edges.curated.json` is a JSON array. Each entry:
+
+- `source` (required): node id (e.g. `character:luffy`)
+- `target` (required): node id
+- `type` (required): one of `membership | ally | enemy | family | mentor | rival | subordinate`
+- `sinceArc` (optional): first arc where the relationship is relevant
+- `note` (optional): short human note for context
+
+### Examples (commented)
+
+```jsonc
+[
+  // Mentor relationship (often treated as directed in UI)
+  {
+    "source": "character:rayleigh",
+    "target": "character:luffy",
+    "type": "mentor",
+    "sinceArc": "Sabaody",
+    "note": "Rayleigh trains Luffy during the timeskip.",
+  },
+
+  // Enemy relationship
+  {
+    "source": "character:luffy",
+    "target": "character:blackbeard",
+    "type": "enemy",
+    "sinceArc": "Jaya",
+  },
+]
 ```
