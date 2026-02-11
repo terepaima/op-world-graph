@@ -1,63 +1,89 @@
 {
   "version": "0.1.0",
-  "generatedAt": "2026-02-04T10:30:00.000Z",
+  "generatedAt": "2026-02-11T14:37:44.862Z",
   "source": {
     "provider": "api-onepiece.com",
     "notes": "Seeded crews + curated relationships"
   },
   "display": {
     "nodes": [
-      { "type": "crew", "label": "Crews", "defaultVisible": true },
-      { "type": "character", "label": "Characters", "defaultVisible": false },
-      { "type": "org", "label": "Organizations", "defaultVisible": true }
+      {
+        "type": "crew",
+        "label": "Crews",
+        "defaultVisible": true
+      },
+      {
+        "type": "character",
+        "label": "Characters",
+        "defaultVisible": false
+      },
+      {
+        "type": "org",
+        "label": "Organizations",
+        "defaultVisible": true
+      }
     ],
     "relationships": [
       {
         "type": "membership",
         "label": "Membership",
-        "description": "Character belongs to a crew/org",
         "defaultVisible": true,
-        "style": { "stroke": "solid", "width": "normal", "zIndex": 1 },
         "isDirected": false
       },
       {
         "type": "ally",
         "label": "Ally",
         "defaultVisible": true,
-        "style": { "stroke": "solid", "width": "thin", "zIndex": 2 }
+        "isDirected": false
       },
       {
         "type": "enemy",
         "label": "Enemy",
         "defaultVisible": true,
-        "style": { "stroke": "dashed", "width": "normal", "zIndex": 3 }
+        "isDirected": false
       },
       {
         "type": "family",
         "label": "Family",
         "defaultVisible": false,
-        "style": { "stroke": "solid", "width": "thin", "zIndex": 2 }
+        "isDirected": false
       },
       {
         "type": "mentor",
         "label": "Mentor",
         "defaultVisible": false,
-        "style": { "stroke": "dotted", "width": "thin", "zIndex": 2 },
         "isDirected": true
       },
       {
         "type": "rival",
         "label": "Rival",
         "defaultVisible": false,
-        "style": { "stroke": "dashed", "width": "thin", "zIndex": 2 }
+        "isDirected": false
       },
       {
         "type": "subordinate",
         "label": "Subordinate",
         "defaultVisible": false,
-        "style": { "stroke": "dotted", "width": "thin", "zIndex": 2 },
         "isDirected": true
       }
     ]
+  },
+  "counts": {
+    "nodesTotal": 169,
+    "edgesTotal": 151,
+    "nodesByType": {
+      "crew": 23,
+      "character": 146,
+      "org": 0
+    },
+    "edgesByType": {
+      "membership": 146,
+      "ally": 0,
+      "enemy": 2,
+      "family": 1,
+      "mentor": 2,
+      "rival": 0,
+      "subordinate": 0
+    }
   }
 }

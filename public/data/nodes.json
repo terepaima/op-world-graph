@@ -1,0 +1,3228 @@
+[
+  {
+    "id": "crew:crew-1",
+    "type": "crew",
+    "label": "Straw Hat Pirates",
+    "subtitle": "Pirates",
+    "keywords": [
+      "The Chapeau de Paille crew",
+      "Mugiwara no Ichimi",
+      "Pirates"
+    ],
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 1,
+      "url": "https://api.api-onepiece.com/v2/crews/en/1"
+    },
+    "category": "Pirates"
+  },
+  {
+    "id": "crew:crew-2",
+    "type": "crew",
+    "label": "Red Hair Pirates",
+    "subtitle": "Pirates",
+    "keywords": [
+      "Le Roux crew",
+      "Akagami Kaizokudan",
+      "Pirates"
+    ],
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 2,
+      "url": "https://api.api-onepiece.com/v2/crews/en/2"
+    },
+    "category": "Pirates"
+  },
+  {
+    "id": "crew:crew-3",
+    "type": "crew",
+    "label": "Whitebeard Pirates",
+    "subtitle": "Pirates",
+    "keywords": [
+      "The Alvida crew",
+      "Arubida Kaizokudan",
+      "Pirates"
+    ],
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 3,
+      "url": "https://api.api-onepiece.com/v2/crews/en/3"
+    },
+    "category": "Pirates"
+  },
+  {
+    "id": "crew:crew-4",
+    "type": "crew",
+    "label": "Blackbeard Pirates",
+    "subtitle": "Pirates",
+    "keywords": [
+      "The Clown Crew",
+      "Bagī Kaizokudan",
+      "Pirates"
+    ],
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 4,
+      "url": "https://api.api-onepiece.com/v2/crews/en/4"
+    },
+    "category": "Pirates"
+  },
+  {
+    "id": "crew:crew-5",
+    "type": "crew",
+    "label": "Big Mom Pirates",
+    "subtitle": "Pirates",
+    "keywords": [
+      "The Pirates Roger crew",
+      "Rojā Kaizoku Dan",
+      "Pirates"
+    ],
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 5,
+      "url": "https://api.api-onepiece.com/v2/crews/en/5"
+    },
+    "category": "Pirates"
+  },
+  {
+    "id": "crew:crew-6",
+    "type": "crew",
+    "label": "Beast Pirates",
+    "subtitle": "Pirates",
+    "keywords": [
+      "Captain Usopp's crew",
+      "Usoppu Kaizokudan",
+      "Pirates"
+    ],
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 6,
+      "url": "https://api.api-onepiece.com/v2/crews/en/6"
+    },
+    "category": "Pirates"
+  },
+  {
+    "id": "crew:crew-7",
+    "type": "crew",
+    "label": "Heart Pirates",
+    "subtitle": "Pirates",
+    "keywords": [
+      "The Black Cat crew",
+      "Kuroneko Kaizoku Dan",
+      "Pirates"
+    ],
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 7,
+      "url": "https://api.api-onepiece.com/v2/crews/en/7"
+    },
+    "category": "Pirates"
+  },
+  {
+    "id": "crew:crew-8",
+    "type": "crew",
+    "label": "Kid Pirates",
+    "subtitle": "Pirates",
+    "keywords": [
+      "Don Krieg's Pirate Armada",
+      "Kuriiku Kaizoku Kantai",
+      "Pirates"
+    ],
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 8,
+      "url": "https://api.api-onepiece.com/v2/crews/en/8"
+    },
+    "category": "Pirates"
+  },
+  {
+    "id": "crew:crew-9",
+    "type": "crew",
+    "label": "Donquixote Pirates",
+    "subtitle": "Pirates",
+    "keywords": [
+      "Les Cuisiniers crew",
+      "Kukku Kaizokudan",
+      "Pirates"
+    ],
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 9,
+      "url": "https://api.api-onepiece.com/v2/crews/en/9"
+    },
+    "category": "Pirates"
+  },
+  {
+    "id": "crew:crew-10",
+    "type": "crew",
+    "label": "Kuja Pirates",
+    "subtitle": "Pirates",
+    "keywords": [
+      "The Arlong crew",
+      "Āron Ichimi",
+      "Pirates"
+    ],
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 10,
+      "url": "https://api.api-onepiece.com/v2/crews/en/10"
+    },
+    "category": "Pirates"
+  },
+  {
+    "id": "crew:crew-11",
+    "type": "crew",
+    "label": "Buggy Pirates",
+    "subtitle": "Pirates",
+    "keywords": [
+      "The Pirates Yes crew",
+      "Iesu Kaizokudan",
+      "Pirates"
+    ],
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 11,
+      "url": "https://api.api-onepiece.com/v2/crews/en/11"
+    },
+    "category": "Pirates"
+  },
+  {
+    "id": "crew:crew-12",
+    "type": "crew",
+    "label": "Marines",
+    "subtitle": "Marines",
+    "keywords": [
+      "The Rumbar crew",
+      "Runbā Kaizoku-dan",
+      "Marines"
+    ],
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 12,
+      "url": "https://api.api-onepiece.com/v2/crews/en/12"
+    },
+    "category": "Marines"
+  },
+  {
+    "id": "crew:crew-13",
+    "type": "crew",
+    "label": "Cipher Pol",
+    "subtitle": "World Government",
+    "keywords": [
+      "The Giant Crew",
+      "Kyo Hē Kaizoku-dan",
+      "World Government"
+    ],
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 13,
+      "url": "https://api.api-onepiece.com/v2/crews/en/13"
+    },
+    "category": "World Government"
+  },
+  {
+    "id": "crew:crew-14",
+    "type": "crew",
+    "label": "World Government",
+    "subtitle": "World Government",
+    "keywords": [
+      "The Bliking crew",
+      "Burikingu Kaizokudan",
+      "World Government"
+    ],
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 14,
+      "url": "https://api.api-onepiece.com/v2/crews/en/14"
+    },
+    "category": "World Government"
+  },
+  {
+    "id": "crew:crew-15",
+    "type": "crew",
+    "label": "Seven Warlords of the Sea",
+    "subtitle": "World Government",
+    "keywords": [
+      "The Tulip crew",
+      "Chūrippu Kaizokudan",
+      "World Government"
+    ],
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 15,
+      "url": "https://api.api-onepiece.com/v2/crews/en/15"
+    },
+    "category": "World Government"
+  },
+  {
+    "id": "crew:crew-16",
+    "type": "crew",
+    "label": "Gorosei",
+    "subtitle": "World Government",
+    "keywords": [
+      "Whitebeard's crew",
+      "Shirohige Kaizokudan",
+      "World Government"
+    ],
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 16,
+      "url": "https://api.api-onepiece.com/v2/crews/en/16"
+    },
+    "category": "World Government"
+  },
+  {
+    "id": "crew:crew-17",
+    "type": "crew",
+    "label": "Revolutionary Army",
+    "subtitle": "Revolutionary",
+    "keywords": [
+      "Primate League",
+      "Saruyama Rengō",
+      "Revolutionary"
+    ],
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 17,
+      "url": "https://api.api-onepiece.com/v2/crews/en/17"
+    },
+    "category": "Revolutionary"
+  },
+  {
+    "id": "crew:crew-18",
+    "type": "crew",
+    "label": "Roger Pirates",
+    "subtitle": "Pirates",
+    "keywords": [
+      "The Hakahoka crew",
+      "Hokahoka Kaizokudan",
+      "Pirates"
+    ],
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 18,
+      "url": "https://api.api-onepiece.com/v2/crews/en/18"
+    },
+    "category": "Pirates"
+  },
+  {
+    "id": "crew:crew-19",
+    "type": "crew",
+    "label": "Rocks Pirates",
+    "subtitle": "Pirates",
+    "keywords": [
+      "the New Age crew",
+      "Beramī Kaizokudan",
+      "Pirates"
+    ],
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 19,
+      "url": "https://api.api-onepiece.com/v2/crews/en/19"
+    },
+    "category": "Pirates"
+  },
+  {
+    "id": "crew:crew-20",
+    "type": "crew",
+    "label": "Sun Pirates",
+    "subtitle": "Pirates",
+    "keywords": [
+      "The Roshio crew",
+      "Roshio Kaizokudan",
+      "Pirates"
+    ],
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 20,
+      "url": "https://api.api-onepiece.com/v2/crews/en/20"
+    },
+    "category": "Pirates"
+  },
+  {
+    "id": "crew:crew-21",
+    "type": "crew",
+    "label": "Baroque Works",
+    "subtitle": "Criminal / Syndicate",
+    "keywords": [
+      "Don Quixote's crew",
+      "Donkihōte Kaizokudan",
+      "Criminal / Syndicate"
+    ],
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 21,
+      "url": "https://api.api-onepiece.com/v2/crews/en/21"
+    },
+    "category": "Criminal / Syndicate"
+  },
+  {
+    "id": "crew:crew-22",
+    "type": "crew",
+    "label": "CP9",
+    "subtitle": "World Government",
+    "keywords": [
+      "Blackbeard's crew",
+      "Kurohige Kaizokudan",
+      "World Government"
+    ],
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 22,
+      "url": "https://api.api-onepiece.com/v2/crews/en/22"
+    },
+    "category": "World Government"
+  },
+  {
+    "id": "crew:crew-23",
+    "type": "crew",
+    "label": "CP0",
+    "subtitle": "World Government",
+    "keywords": [
+      "The Fanged Toad crew",
+      "Kiba Gaeru Kaizokudan",
+      "World Government"
+    ],
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 23,
+      "url": "https://api.api-onepiece.com/v2/crews/en/23"
+    },
+    "category": "World Government"
+  },
+  {
+    "id": "character:char-1",
+    "type": "character",
+    "label": "Monkey D Luffy",
+    "subtitle": "Captain",
+    "crewId": "crew:crew-1",
+    "keywords": [
+      "Monkey D Luffy",
+      "Captain",
+      "Straw Hat Pirates",
+      "Pirates"
+    ],
+    "stats": {
+      "bounty": 3000000000
+    },
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 1,
+      "url": "https://api.api-onepiece.com/v2/characters/en/1"
+    }
+  },
+  {
+    "id": "character:char-2",
+    "type": "character",
+    "label": "Roronoa Zoro",
+    "subtitle": "Right-hand man",
+    "crewId": "crew:crew-1",
+    "keywords": [
+      "Roronoa Zoro",
+      "Right-hand man",
+      "Straw Hat Pirates",
+      "Pirates"
+    ],
+    "stats": {
+      "bounty": 320000000
+    },
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 2,
+      "url": "https://api.api-onepiece.com/v2/characters/en/2"
+    }
+  },
+  {
+    "id": "character:char-3",
+    "type": "character",
+    "label": "Nami",
+    "subtitle": "Navigator",
+    "crewId": "crew:crew-1",
+    "keywords": [
+      "Nami",
+      "Navigator",
+      "Straw Hat Pirates",
+      "Pirates"
+    ],
+    "stats": {
+      "bounty": 66000000
+    },
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 3,
+      "url": "https://api.api-onepiece.com/v2/characters/en/3"
+    }
+  },
+  {
+    "id": "character:char-4",
+    "type": "character",
+    "label": "Usopp",
+    "subtitle": "Sniper",
+    "crewId": "crew:crew-1",
+    "keywords": [
+      "Usopp",
+      "Sniper",
+      "Straw Hat Pirates",
+      "Pirates"
+    ],
+    "stats": {
+      "bounty": 200000000
+    },
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 4,
+      "url": "https://api.api-onepiece.com/v2/characters/en/4"
+    }
+  },
+  {
+    "id": "character:char-5",
+    "type": "character",
+    "label": "Sanji",
+    "subtitle": "Cook",
+    "crewId": "crew:crew-1",
+    "keywords": [
+      "Sanji",
+      "Cook",
+      "Straw Hat Pirates",
+      "Pirates"
+    ],
+    "stats": {
+      "bounty": 330000000
+    },
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 5,
+      "url": "https://api.api-onepiece.com/v2/characters/en/5"
+    }
+  },
+  {
+    "id": "character:char-6",
+    "type": "character",
+    "label": "Tony-Tony Chopper",
+    "subtitle": "Doctor",
+    "crewId": "crew:crew-1",
+    "keywords": [
+      "Tony-Tony Chopper",
+      "Doctor",
+      "Straw Hat Pirates",
+      "Pirates"
+    ],
+    "stats": {
+      "bounty": 100
+    },
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 6,
+      "url": "https://api.api-onepiece.com/v2/characters/en/6"
+    }
+  },
+  {
+    "id": "character:char-7",
+    "type": "character",
+    "label": "Nico Robin",
+    "subtitle": "Archaeologist",
+    "crewId": "crew:crew-1",
+    "keywords": [
+      "Nico Robin",
+      "Archaeologist",
+      "Straw Hat Pirates",
+      "Pirates"
+    ],
+    "stats": {
+      "bounty": 130000000
+    },
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 7,
+      "url": "https://api.api-onepiece.com/v2/characters/en/7"
+    }
+  },
+  {
+    "id": "character:char-8",
+    "type": "character",
+    "label": "Franky",
+    "subtitle": "Carpenter",
+    "crewId": "crew:crew-1",
+    "keywords": [
+      "Franky",
+      "Carpenter",
+      "Straw Hat Pirates",
+      "Pirates"
+    ],
+    "stats": {
+      "bounty": 94000000
+    },
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 8,
+      "url": "https://api.api-onepiece.com/v2/characters/en/8"
+    }
+  },
+  {
+    "id": "character:char-9",
+    "type": "character",
+    "label": "Brook",
+    "subtitle": "Musician",
+    "crewId": "crew:crew-1",
+    "keywords": [
+      "Brook",
+      "Musician",
+      "Straw Hat Pirates",
+      "Pirates"
+    ],
+    "stats": {
+      "bounty": 83000000
+    },
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 9,
+      "url": "https://api.api-onepiece.com/v2/characters/en/9"
+    }
+  },
+  {
+    "id": "character:char-10",
+    "type": "character",
+    "label": "Jinbe",
+    "subtitle": "Helmsman",
+    "crewId": "crew:crew-1",
+    "keywords": [
+      "Jinbe",
+      "Helmsman",
+      "Straw Hat Pirates",
+      "Pirates"
+    ],
+    "stats": {
+      "bounty": 438000000
+    },
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 10,
+      "url": "https://api.api-onepiece.com/v2/characters/en/10"
+    }
+  },
+  {
+    "id": "character:char-11",
+    "type": "character",
+    "label": "Zeus",
+    "subtitle": "Nami Arme",
+    "crewId": "crew:crew-1",
+    "keywords": [
+      "Zeus",
+      "Nami Arme",
+      "Straw Hat Pirates",
+      "Pirates"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 11,
+      "url": "https://api.api-onepiece.com/v2/characters/en/11"
+    }
+  },
+  {
+    "id": "character:char-85",
+    "type": "character",
+    "label": "Shanks",
+    "subtitle": "Captain",
+    "crewId": "crew:crew-2",
+    "keywords": [
+      "Shanks",
+      "Captain",
+      "Red Hair Pirates",
+      "Pirates"
+    ],
+    "stats": {
+      "bounty": 4048900000
+    },
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 85,
+      "url": "https://api.api-onepiece.com/v2/characters/en/85"
+    }
+  },
+  {
+    "id": "character:char-86",
+    "type": "character",
+    "label": "Ben Beckmann",
+    "subtitle": "Vice-Captain",
+    "crewId": "crew:crew-2",
+    "keywords": [
+      "Ben Beckmann",
+      "Vice-Captain",
+      "Red Hair Pirates",
+      "Pirates"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 86,
+      "url": "https://api.api-onepiece.com/v2/characters/en/86"
+    }
+  },
+  {
+    "id": "character:char-87",
+    "type": "character",
+    "label": "Lucky Roo",
+    "subtitle": "Lieutenant",
+    "crewId": "crew:crew-2",
+    "keywords": [
+      "Lucky Roo",
+      "Lieutenant",
+      "Red Hair Pirates",
+      "Pirates"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 87,
+      "url": "https://api.api-onepiece.com/v2/characters/en/87"
+    }
+  },
+  {
+    "id": "character:char-88",
+    "type": "character",
+    "label": "Yassop",
+    "subtitle": "Lieutenant",
+    "crewId": "crew:crew-2",
+    "keywords": [
+      "Yassop",
+      "Lieutenant",
+      "Red Hair Pirates",
+      "Pirates"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 88,
+      "url": "https://api.api-onepiece.com/v2/characters/en/88"
+    }
+  },
+  {
+    "id": "character:char-89",
+    "type": "character",
+    "label": "Limejuice",
+    "subtitle": "Lieutenant",
+    "crewId": "crew:crew-2",
+    "keywords": [
+      "Limejuice",
+      "Lieutenant",
+      "Red Hair Pirates",
+      "Pirates"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 89,
+      "url": "https://api.api-onepiece.com/v2/characters/en/89"
+    }
+  },
+  {
+    "id": "character:char-90",
+    "type": "character",
+    "label": "Bonk Punch",
+    "subtitle": "Lieutenant",
+    "crewId": "crew:crew-2",
+    "keywords": [
+      "Bonk Punch",
+      "Lieutenant",
+      "Red Hair Pirates",
+      "Pirates"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 90,
+      "url": "https://api.api-onepiece.com/v2/characters/en/90"
+    }
+  },
+  {
+    "id": "character:char-91",
+    "type": "character",
+    "label": "Monster",
+    "subtitle": "Lieutenant",
+    "crewId": "crew:crew-2",
+    "keywords": [
+      "Monster",
+      "Lieutenant",
+      "Red Hair Pirates",
+      "Pirates"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 91,
+      "url": "https://api.api-onepiece.com/v2/characters/en/91"
+    }
+  },
+  {
+    "id": "character:char-92",
+    "type": "character",
+    "label": "Building Snake",
+    "subtitle": "Lieutenant",
+    "crewId": "crew:crew-2",
+    "keywords": [
+      "Building Snake",
+      "Lieutenant",
+      "Red Hair Pirates",
+      "Pirates"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 92,
+      "url": "https://api.api-onepiece.com/v2/characters/en/92"
+    }
+  },
+  {
+    "id": "character:char-93",
+    "type": "character",
+    "label": "Hongo",
+    "subtitle": "Lieutenant",
+    "crewId": "crew:crew-2",
+    "keywords": [
+      "Hongo",
+      "Lieutenant",
+      "Red Hair Pirates",
+      "Pirates"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 93,
+      "url": "https://api.api-onepiece.com/v2/characters/en/93"
+    }
+  },
+  {
+    "id": "character:char-94",
+    "type": "character",
+    "label": "Howling Dab",
+    "subtitle": "Lieutenant",
+    "crewId": "crew:crew-2",
+    "keywords": [
+      "Howling Dab",
+      "Lieutenant",
+      "Red Hair Pirates",
+      "Pirates"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 94,
+      "url": "https://api.api-onepiece.com/v2/characters/en/94"
+    }
+  },
+  {
+    "id": "character:char-95",
+    "type": "character",
+    "label": "Rockstar",
+    "subtitle": "",
+    "crewId": "crew:crew-2",
+    "keywords": [
+      "Rockstar",
+      "Red Hair Pirates",
+      "Pirates"
+    ],
+    "stats": {
+      "bounty": 94000000
+    },
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 95,
+      "url": "https://api.api-onepiece.com/v2/characters/en/95"
+    }
+  },
+  {
+    "id": "character:char-258",
+    "type": "character",
+    "label": "Gol D. Roger",
+    "subtitle": "Captain",
+    "crewId": "crew:crew-5",
+    "keywords": [
+      "Gol D. Roger",
+      "Captain",
+      "Big Mom Pirates",
+      "Pirates"
+    ],
+    "stats": {
+      "bounty": 5564800000
+    },
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 258,
+      "url": "https://api.api-onepiece.com/v2/characters/en/258"
+    }
+  },
+  {
+    "id": "character:char-259",
+    "type": "character",
+    "label": "Silvers Rayleigh",
+    "subtitle": "Right-hand man",
+    "crewId": "crew:crew-5",
+    "keywords": [
+      "Silvers Rayleigh",
+      "Right-hand man",
+      "Big Mom Pirates",
+      "Pirates"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 259,
+      "url": "https://api.api-onepiece.com/v2/characters/en/259"
+    }
+  },
+  {
+    "id": "character:char-260",
+    "type": "character",
+    "label": "Scopper Gaban",
+    "subtitle": "Carpenter",
+    "crewId": "crew:crew-5",
+    "keywords": [
+      "Scopper Gaban",
+      "Carpenter",
+      "Big Mom Pirates",
+      "Pirates"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 260,
+      "url": "https://api.api-onepiece.com/v2/characters/en/260"
+    }
+  },
+  {
+    "id": "character:char-261",
+    "type": "character",
+    "label": "Seagull Guns Nozdon",
+    "subtitle": "",
+    "crewId": "crew:crew-5",
+    "keywords": [
+      "Seagull Guns Nozdon",
+      "Big Mom Pirates",
+      "Pirates"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 261,
+      "url": "https://api.api-onepiece.com/v2/characters/en/261"
+    }
+  },
+  {
+    "id": "character:char-262",
+    "type": "character",
+    "label": "Taro",
+    "subtitle": "",
+    "crewId": "crew:crew-5",
+    "keywords": [
+      "Taro",
+      "Big Mom Pirates",
+      "Pirates"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 262,
+      "url": "https://api.api-onepiece.com/v2/characters/en/262"
+    }
+  },
+  {
+    "id": "character:char-263",
+    "type": "character",
+    "label": "Dringo",
+    "subtitle": "",
+    "crewId": "crew:crew-5",
+    "keywords": [
+      "Dringo",
+      "Big Mom Pirates",
+      "Pirates"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 263,
+      "url": "https://api.api-onepiece.com/v2/characters/en/263"
+    }
+  },
+  {
+    "id": "character:char-264",
+    "type": "character",
+    "label": "Sanjuan Wolf",
+    "subtitle": "",
+    "crewId": "crew:crew-5",
+    "keywords": [
+      "Sanjuan Wolf",
+      "Big Mom Pirates",
+      "Pirates"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 264,
+      "url": "https://api.api-onepiece.com/v2/characters/en/264"
+    }
+  },
+  {
+    "id": "character:char-265",
+    "type": "character",
+    "label": "Millet Pine",
+    "subtitle": "",
+    "crewId": "crew:crew-5",
+    "keywords": [
+      "Millet Pine",
+      "Big Mom Pirates",
+      "Pirates"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 265,
+      "url": "https://api.api-onepiece.com/v2/characters/en/265"
+    }
+  },
+  {
+    "id": "character:char-266",
+    "type": "character",
+    "label": "Ganryu",
+    "subtitle": "",
+    "crewId": "crew:crew-5",
+    "keywords": [
+      "Ganryu",
+      "Big Mom Pirates",
+      "Pirates"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 266,
+      "url": "https://api.api-onepiece.com/v2/characters/en/266"
+    }
+  },
+  {
+    "id": "character:char-267",
+    "type": "character",
+    "label": "CB Galant",
+    "subtitle": "",
+    "crewId": "crew:crew-5",
+    "keywords": [
+      "CB Galant",
+      "Big Mom Pirates",
+      "Pirates"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 267,
+      "url": "https://api.api-onepiece.com/v2/characters/en/267"
+    }
+  },
+  {
+    "id": "character:char-268",
+    "type": "character",
+    "label": "Donquino",
+    "subtitle": "",
+    "crewId": "crew:crew-5",
+    "keywords": [
+      "Donquino",
+      "Big Mom Pirates",
+      "Pirates"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 268,
+      "url": "https://api.api-onepiece.com/v2/characters/en/268"
+    }
+  },
+  {
+    "id": "character:char-269",
+    "type": "character",
+    "label": "Mr Momora",
+    "subtitle": "",
+    "crewId": "crew:crew-5",
+    "keywords": [
+      "Mr Momora",
+      "Big Mom Pirates",
+      "Pirates"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 269,
+      "url": "https://api.api-onepiece.com/v2/characters/en/269"
+    }
+  },
+  {
+    "id": "character:char-270",
+    "type": "character",
+    "label": "Moon Isaac Jr.",
+    "subtitle": "",
+    "crewId": "crew:crew-5",
+    "keywords": [
+      "Moon Isaac Jr.",
+      "Big Mom Pirates",
+      "Pirates"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 270,
+      "url": "https://api.api-onepiece.com/v2/characters/en/270"
+    }
+  },
+  {
+    "id": "character:char-271",
+    "type": "character",
+    "label": "Yui",
+    "subtitle": "",
+    "crewId": "crew:crew-5",
+    "keywords": [
+      "Yui",
+      "Big Mom Pirates",
+      "Pirates"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 271,
+      "url": "https://api.api-onepiece.com/v2/characters/en/271"
+    }
+  },
+  {
+    "id": "character:char-272",
+    "type": "character",
+    "label": "Rangram",
+    "subtitle": "",
+    "crewId": "crew:crew-5",
+    "keywords": [
+      "Rangram",
+      "Big Mom Pirates",
+      "Pirates"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 272,
+      "url": "https://api.api-onepiece.com/v2/characters/en/272"
+    }
+  },
+  {
+    "id": "character:char-273",
+    "type": "character",
+    "label": "Colonel Mugren",
+    "subtitle": "",
+    "crewId": "crew:crew-5",
+    "keywords": [
+      "Colonel Mugren",
+      "Big Mom Pirates",
+      "Pirates"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 273,
+      "url": "https://api.api-onepiece.com/v2/characters/en/273"
+    }
+  },
+  {
+    "id": "character:char-274",
+    "type": "character",
+    "label": "Max Marks",
+    "subtitle": "",
+    "crewId": "crew:crew-5",
+    "keywords": [
+      "Max Marks",
+      "Big Mom Pirates",
+      "Pirates"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 274,
+      "url": "https://api.api-onepiece.com/v2/characters/en/274"
+    }
+  },
+  {
+    "id": "character:char-275",
+    "type": "character",
+    "label": "Spencer",
+    "subtitle": "",
+    "crewId": "crew:crew-5",
+    "keywords": [
+      "Spencer",
+      "Big Mom Pirates",
+      "Pirates"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 275,
+      "url": "https://api.api-onepiece.com/v2/characters/en/275"
+    }
+  },
+  {
+    "id": "character:char-276",
+    "type": "character",
+    "label": "Bankro",
+    "subtitle": "",
+    "crewId": "crew:crew-5",
+    "keywords": [
+      "Bankro",
+      "Big Mom Pirates",
+      "Pirates"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 276,
+      "url": "https://api.api-onepiece.com/v2/characters/en/276"
+    }
+  },
+  {
+    "id": "character:char-277",
+    "type": "character",
+    "label": "Blumarine",
+    "subtitle": "",
+    "crewId": "crew:crew-5",
+    "keywords": [
+      "Blumarine",
+      "Big Mom Pirates",
+      "Pirates"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 277,
+      "url": "https://api.api-onepiece.com/v2/characters/en/277"
+    }
+  },
+  {
+    "id": "character:char-278",
+    "type": "character",
+    "label": "Elio",
+    "subtitle": "",
+    "crewId": "crew:crew-5",
+    "keywords": [
+      "Elio",
+      "Big Mom Pirates",
+      "Pirates"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 278,
+      "url": "https://api.api-onepiece.com/v2/characters/en/278"
+    }
+  },
+  {
+    "id": "character:char-279",
+    "type": "character",
+    "label": "Rowing",
+    "subtitle": "",
+    "crewId": "crew:crew-5",
+    "keywords": [
+      "Rowing",
+      "Big Mom Pirates",
+      "Pirates"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 279,
+      "url": "https://api.api-onepiece.com/v2/characters/en/279"
+    }
+  },
+  {
+    "id": "character:char-280",
+    "type": "character",
+    "label": "Jacsonbaner",
+    "subtitle": "",
+    "crewId": "crew:crew-5",
+    "keywords": [
+      "Jacsonbaner",
+      "Big Mom Pirates",
+      "Pirates"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 280,
+      "url": "https://api.api-onepiece.com/v2/characters/en/280"
+    }
+  },
+  {
+    "id": "character:char-281",
+    "type": "character",
+    "label": "Yamon",
+    "subtitle": "",
+    "crewId": "crew:crew-5",
+    "keywords": [
+      "Yamon",
+      "Big Mom Pirates",
+      "Pirates"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 281,
+      "url": "https://api.api-onepiece.com/v2/characters/en/281"
+    }
+  },
+  {
+    "id": "character:char-37",
+    "type": "character",
+    "label": "Kuro",
+    "subtitle": "Captain",
+    "crewId": "crew:crew-7",
+    "keywords": [
+      "Kuro",
+      "Captain",
+      "Heart Pirates",
+      "Pirates"
+    ],
+    "stats": {
+      "bounty": 16000000
+    },
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 37,
+      "url": "https://api.api-onepiece.com/v2/characters/en/37"
+    }
+  },
+  {
+    "id": "character:char-38",
+    "type": "character",
+    "label": "Sham",
+    "subtitle": "Officer",
+    "crewId": "crew:crew-7",
+    "keywords": [
+      "Sham",
+      "Officer",
+      "Heart Pirates",
+      "Pirates"
+    ],
+    "stats": {
+      "bounty": 7000000
+    },
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 38,
+      "url": "https://api.api-onepiece.com/v2/characters/en/38"
+    }
+  },
+  {
+    "id": "character:char-39",
+    "type": "character",
+    "label": "Buchi",
+    "subtitle": "Officer",
+    "crewId": "crew:crew-7",
+    "keywords": [
+      "Buchi",
+      "Officer",
+      "Heart Pirates",
+      "Pirates"
+    ],
+    "stats": {
+      "bounty": 7000000
+    },
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 39,
+      "url": "https://api.api-onepiece.com/v2/characters/en/39"
+    }
+  },
+  {
+    "id": "character:char-40",
+    "type": "character",
+    "label": "Krieg / Don Krieg",
+    "subtitle": "Captain",
+    "crewId": "crew:crew-8",
+    "keywords": [
+      "Krieg / Don Krieg",
+      "Captain",
+      "Kid Pirates",
+      "Pirates"
+    ],
+    "stats": {
+      "bounty": 17000000
+    },
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 40,
+      "url": "https://api.api-onepiece.com/v2/characters/en/40"
+    }
+  },
+  {
+    "id": "character:char-41",
+    "type": "character",
+    "label": "Gyn",
+    "subtitle": "Vice-Admiral",
+    "crewId": "crew:crew-8",
+    "keywords": [
+      "Gyn",
+      "Vice-Admiral",
+      "Kid Pirates",
+      "Pirates"
+    ],
+    "stats": {
+      "bounty": 12000000
+    },
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 41,
+      "url": "https://api.api-onepiece.com/v2/characters/en/41"
+    }
+  },
+  {
+    "id": "character:char-42",
+    "type": "character",
+    "label": "Pearl",
+    "subtitle": "Captain (2nd Battalion)",
+    "crewId": "crew:crew-8",
+    "keywords": [
+      "Pearl",
+      "Captain (2nd Battalion)",
+      "Kid Pirates",
+      "Pirates"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 42,
+      "url": "https://api.api-onepiece.com/v2/characters/en/42"
+    }
+  },
+  {
+    "id": "character:char-282",
+    "type": "character",
+    "label": "Arlong",
+    "subtitle": "Captain",
+    "crewId": "crew:crew-10",
+    "keywords": [
+      "Arlong",
+      "Captain",
+      "Kuja Pirates",
+      "Pirates"
+    ],
+    "stats": {
+      "bounty": 20000000
+    },
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 282,
+      "url": "https://api.api-onepiece.com/v2/characters/en/282"
+    }
+  },
+  {
+    "id": "character:char-283",
+    "type": "character",
+    "label": "Kuroobi",
+    "subtitle": "Lieutenant",
+    "crewId": "crew:crew-10",
+    "keywords": [
+      "Kuroobi",
+      "Lieutenant",
+      "Kuja Pirates",
+      "Pirates"
+    ],
+    "stats": {
+      "bounty": 9000000
+    },
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 283,
+      "url": "https://api.api-onepiece.com/v2/characters/en/283"
+    }
+  },
+  {
+    "id": "character:char-284",
+    "type": "character",
+    "label": "Smack",
+    "subtitle": "Lieutenant",
+    "crewId": "crew:crew-10",
+    "keywords": [
+      "Smack",
+      "Lieutenant",
+      "Kuja Pirates",
+      "Pirates"
+    ],
+    "stats": {
+      "bounty": 5500000
+    },
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 284,
+      "url": "https://api.api-onepiece.com/v2/characters/en/284"
+    }
+  },
+  {
+    "id": "character:char-285",
+    "type": "character",
+    "label": "Yorki",
+    "subtitle": "Captain",
+    "crewId": "crew:crew-12",
+    "keywords": [
+      "Yorki",
+      "Captain",
+      "Marines",
+      "Marines"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 285,
+      "url": "https://api.api-onepiece.com/v2/characters/en/285"
+    }
+  },
+  {
+    "id": "character:char-286",
+    "type": "character",
+    "label": "Madaisky Mizuta",
+    "subtitle": "",
+    "crewId": "crew:crew-12",
+    "keywords": [
+      "Madaisky Mizuta",
+      "Marines",
+      "Marines"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 286,
+      "url": "https://api.api-onepiece.com/v2/characters/en/286"
+    }
+  },
+  {
+    "id": "character:char-287",
+    "type": "character",
+    "label": "Mawaritovsky Mizuta",
+    "subtitle": "",
+    "crewId": "crew:crew-12",
+    "keywords": [
+      "Mawaritovsky Mizuta",
+      "Marines",
+      "Marines"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 287,
+      "url": "https://api.api-onepiece.com/v2/characters/en/287"
+    }
+  },
+  {
+    "id": "character:char-289",
+    "type": "character",
+    "label": "Edward Newgate / Barbe Blanche",
+    "subtitle": "Captain",
+    "crewId": "crew:crew-16",
+    "keywords": [
+      "Edward Newgate / Barbe Blanche",
+      "Captain",
+      "Gorosei",
+      "World Government"
+    ],
+    "stats": {
+      "bounty": 5046000000
+    },
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 289,
+      "url": "https://api.api-onepiece.com/v2/characters/en/289"
+    }
+  },
+  {
+    "id": "character:char-290",
+    "type": "character",
+    "label": "Portgas D. Ace",
+    "subtitle": "Commander 2nd Ship",
+    "crewId": "crew:crew-16",
+    "keywords": [
+      "Portgas D. Ace",
+      "Commander 2nd Ship",
+      "Gorosei",
+      "World Government"
+    ],
+    "stats": {
+      "bounty": 550000000
+    },
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 290,
+      "url": "https://api.api-onepiece.com/v2/characters/en/290"
+    }
+  },
+  {
+    "id": "character:char-291",
+    "type": "character",
+    "label": "Diamond Joz",
+    "subtitle": "Commander 3rd Ship",
+    "crewId": "crew:crew-16",
+    "keywords": [
+      "Diamond Joz",
+      "Commander 3rd Ship",
+      "Gorosei",
+      "World Government"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 291,
+      "url": "https://api.api-onepiece.com/v2/characters/en/291"
+    }
+  },
+  {
+    "id": "character:char-292",
+    "type": "character",
+    "label": "Thatch",
+    "subtitle": "Commander 4th Ship",
+    "crewId": "crew:crew-16",
+    "keywords": [
+      "Thatch",
+      "Commander 4th Ship",
+      "Gorosei",
+      "World Government"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 292,
+      "url": "https://api.api-onepiece.com/v2/characters/en/292"
+    }
+  },
+  {
+    "id": "character:char-293",
+    "type": "character",
+    "label": "Vista",
+    "subtitle": "Commander 5th Ship",
+    "crewId": "crew:crew-16",
+    "keywords": [
+      "Vista",
+      "Commander 5th Ship",
+      "Gorosei",
+      "World Government"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 293,
+      "url": "https://api.api-onepiece.com/v2/characters/en/293"
+    }
+  },
+  {
+    "id": "character:char-294",
+    "type": "character",
+    "label": "Blamenco",
+    "subtitle": "Commander 6th Ship",
+    "crewId": "crew:crew-16",
+    "keywords": [
+      "Blamenco",
+      "Commander 6th Ship",
+      "Gorosei",
+      "World Government"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 294,
+      "url": "https://api.api-onepiece.com/v2/characters/en/294"
+    }
+  },
+  {
+    "id": "character:char-295",
+    "type": "character",
+    "label": "Rakuyo",
+    "subtitle": "Commander 7th Ship",
+    "crewId": "crew:crew-16",
+    "keywords": [
+      "Rakuyo",
+      "Commander 7th Ship",
+      "Gorosei",
+      "World Government"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 295,
+      "url": "https://api.api-onepiece.com/v2/characters/en/295"
+    }
+  },
+  {
+    "id": "character:char-296",
+    "type": "character",
+    "label": "Blenheim",
+    "subtitle": "Commander 9th Ship",
+    "crewId": "crew:crew-16",
+    "keywords": [
+      "Blenheim",
+      "Commander 9th Ship",
+      "Gorosei",
+      "World Government"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 296,
+      "url": "https://api.api-onepiece.com/v2/characters/en/296"
+    }
+  },
+  {
+    "id": "character:char-297",
+    "type": "character",
+    "label": "Curiel",
+    "subtitle": "Commander 10th Ship",
+    "crewId": "crew:crew-16",
+    "keywords": [
+      "Curiel",
+      "Commander 10th Ship",
+      "Gorosei",
+      "World Government"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 297,
+      "url": "https://api.api-onepiece.com/v2/characters/en/297"
+    }
+  },
+  {
+    "id": "character:char-298",
+    "type": "character",
+    "label": "Kingdew",
+    "subtitle": "Commander 11th Ship",
+    "crewId": "crew:crew-16",
+    "keywords": [
+      "Kingdew",
+      "Commander 11th Ship",
+      "Gorosei",
+      "World Government"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 298,
+      "url": "https://api.api-onepiece.com/v2/characters/en/298"
+    }
+  },
+  {
+    "id": "character:char-299",
+    "type": "character",
+    "label": "Haruta",
+    "subtitle": "Commander 12th Ship",
+    "crewId": "crew:crew-16",
+    "keywords": [
+      "Haruta",
+      "Commander 12th Ship",
+      "Gorosei",
+      "World Government"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 299,
+      "url": "https://api.api-onepiece.com/v2/characters/en/299"
+    }
+  },
+  {
+    "id": "character:char-300",
+    "type": "character",
+    "label": "Atmos",
+    "subtitle": "Commander 13th Ship",
+    "crewId": "crew:crew-16",
+    "keywords": [
+      "Atmos",
+      "Commander 13th Ship",
+      "Gorosei",
+      "World Government"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 300,
+      "url": "https://api.api-onepiece.com/v2/characters/en/300"
+    }
+  },
+  {
+    "id": "character:char-301",
+    "type": "character",
+    "label": "Speed Jill",
+    "subtitle": "Commander 14th Ship",
+    "crewId": "crew:crew-16",
+    "keywords": [
+      "Speed Jill",
+      "Commander 14th Ship",
+      "Gorosei",
+      "World Government"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 301,
+      "url": "https://api.api-onepiece.com/v2/characters/en/301"
+    }
+  },
+  {
+    "id": "character:char-302",
+    "type": "character",
+    "label": "Fossa",
+    "subtitle": "Commander 15th Ship",
+    "crewId": "crew:crew-16",
+    "keywords": [
+      "Fossa",
+      "Commander 15th Ship",
+      "Gorosei",
+      "World Government"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 302,
+      "url": "https://api.api-onepiece.com/v2/characters/en/302"
+    }
+  },
+  {
+    "id": "character:char-303",
+    "type": "character",
+    "label": "Izou",
+    "subtitle": "Commander 16th Ship",
+    "crewId": "crew:crew-16",
+    "keywords": [
+      "Izou",
+      "Commander 16th Ship",
+      "Gorosei",
+      "World Government"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 303,
+      "url": "https://api.api-onepiece.com/v2/characters/en/303"
+    }
+  },
+  {
+    "id": "character:char-304",
+    "type": "character",
+    "label": "Doma",
+    "subtitle": "Subordinate",
+    "crewId": "crew:crew-16",
+    "keywords": [
+      "Doma",
+      "Subordinate",
+      "Gorosei",
+      "World Government"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 304,
+      "url": "https://api.api-onepiece.com/v2/characters/en/304"
+    }
+  },
+  {
+    "id": "character:char-305",
+    "type": "character",
+    "label": "Frères DeCalvan",
+    "subtitle": "Subordinate",
+    "crewId": "crew:crew-16",
+    "keywords": [
+      "Frères DeCalvan",
+      "Subordinate",
+      "Gorosei",
+      "World Government"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 305,
+      "url": "https://api.api-onepiece.com/v2/characters/en/305"
+    }
+  },
+  {
+    "id": "character:char-306",
+    "type": "character",
+    "label": "Squardo",
+    "subtitle": "Subordinate",
+    "crewId": "crew:crew-16",
+    "keywords": [
+      "Squardo",
+      "Subordinate",
+      "Gorosei",
+      "World Government"
+    ],
+    "stats": {
+      "bounty": 210000000
+    },
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 306,
+      "url": "https://api.api-onepiece.com/v2/characters/en/306"
+    }
+  },
+  {
+    "id": "character:char-307",
+    "type": "character",
+    "label": "Whitey Bay",
+    "subtitle": "Subordinate",
+    "crewId": "crew:crew-16",
+    "keywords": [
+      "Whitey Bay",
+      "Subordinate",
+      "Gorosei",
+      "World Government"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 307,
+      "url": "https://api.api-onepiece.com/v2/characters/en/307"
+    }
+  },
+  {
+    "id": "character:char-308",
+    "type": "character",
+    "label": "Little Oz Junior",
+    "subtitle": "Subordinate",
+    "crewId": "crew:crew-16",
+    "keywords": [
+      "Little Oz Junior",
+      "Subordinate",
+      "Gorosei",
+      "World Government"
+    ],
+    "stats": {
+      "bounty": 550000000
+    },
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 308,
+      "url": "https://api.api-onepiece.com/v2/characters/en/308"
+    }
+  },
+  {
+    "id": "character:char-309",
+    "type": "character",
+    "label": "Mc Guy",
+    "subtitle": "Subordinate",
+    "crewId": "crew:crew-16",
+    "keywords": [
+      "Mc Guy",
+      "Subordinate",
+      "Gorosei",
+      "World Government"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 309,
+      "url": "https://api.api-onepiece.com/v2/characters/en/309"
+    }
+  },
+  {
+    "id": "character:char-310",
+    "type": "character",
+    "label": "A.O",
+    "subtitle": "Subordinate",
+    "crewId": "crew:crew-16",
+    "keywords": [
+      "A.O",
+      "Subordinate",
+      "Gorosei",
+      "World Government"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 310,
+      "url": "https://api.api-onepiece.com/v2/characters/en/310"
+    }
+  },
+  {
+    "id": "character:char-311",
+    "type": "character",
+    "label": "Karma",
+    "subtitle": "Subordinate",
+    "crewId": "crew:crew-16",
+    "keywords": [
+      "Karma",
+      "Subordinate",
+      "Gorosei",
+      "World Government"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 311,
+      "url": "https://api.api-onepiece.com/v2/characters/en/311"
+    }
+  },
+  {
+    "id": "character:char-312",
+    "type": "character",
+    "label": "Elmy",
+    "subtitle": "Subordinate",
+    "crewId": "crew:crew-16",
+    "keywords": [
+      "Elmy",
+      "Subordinate",
+      "Gorosei",
+      "World Government"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 312,
+      "url": "https://api.api-onepiece.com/v2/characters/en/312"
+    }
+  },
+  {
+    "id": "character:char-313",
+    "type": "character",
+    "label": "Ramba",
+    "subtitle": "Subordinate",
+    "crewId": "crew:crew-16",
+    "keywords": [
+      "Ramba",
+      "Subordinate",
+      "Gorosei",
+      "World Government"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 313,
+      "url": "https://api.api-onepiece.com/v2/characters/en/313"
+    }
+  },
+  {
+    "id": "character:char-314",
+    "type": "character",
+    "label": "Delacuaji",
+    "subtitle": "Subordinate",
+    "crewId": "crew:crew-16",
+    "keywords": [
+      "Delacuaji",
+      "Subordinate",
+      "Gorosei",
+      "World Government"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 314,
+      "url": "https://api.api-onepiece.com/v2/characters/en/314"
+    }
+  },
+  {
+    "id": "character:char-315",
+    "type": "character",
+    "label": "Zodia",
+    "subtitle": "Subordinate",
+    "crewId": "crew:crew-16",
+    "keywords": [
+      "Zodia",
+      "Subordinate",
+      "Gorosei",
+      "World Government"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 315,
+      "url": "https://api.api-onepiece.com/v2/characters/en/315"
+    }
+  },
+  {
+    "id": "character:char-316",
+    "type": "character",
+    "label": "Palms",
+    "subtitle": "Subordinate",
+    "crewId": "crew:crew-16",
+    "keywords": [
+      "Palms",
+      "Subordinate",
+      "Gorosei",
+      "World Government"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 316,
+      "url": "https://api.api-onepiece.com/v2/characters/en/316"
+    }
+  },
+  {
+    "id": "character:char-317",
+    "type": "character",
+    "label": "Bizarre",
+    "subtitle": "Subordinate",
+    "crewId": "crew:crew-16",
+    "keywords": [
+      "Bizarre",
+      "Subordinate",
+      "Gorosei",
+      "World Government"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 317,
+      "url": "https://api.api-onepiece.com/v2/characters/en/317"
+    }
+  },
+  {
+    "id": "character:char-318",
+    "type": "character",
+    "label": "Pavlik",
+    "subtitle": "Subordinate",
+    "crewId": "crew:crew-16",
+    "keywords": [
+      "Pavlik",
+      "Subordinate",
+      "Gorosei",
+      "World Government"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 318,
+      "url": "https://api.api-onepiece.com/v2/characters/en/318"
+    }
+  },
+  {
+    "id": "character:char-319",
+    "type": "character",
+    "label": "Vitan",
+    "subtitle": "Subordinate",
+    "crewId": "crew:crew-16",
+    "keywords": [
+      "Vitan",
+      "Subordinate",
+      "Gorosei",
+      "World Government"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 319,
+      "url": "https://api.api-onepiece.com/v2/characters/en/319"
+    }
+  },
+  {
+    "id": "character:char-320",
+    "type": "character",
+    "label": "Islewan",
+    "subtitle": "Subordinate",
+    "crewId": "crew:crew-16",
+    "keywords": [
+      "Islewan",
+      "Subordinate",
+      "Gorosei",
+      "World Government"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 320,
+      "url": "https://api.api-onepiece.com/v2/characters/en/320"
+    }
+  },
+  {
+    "id": "character:char-321",
+    "type": "character",
+    "label": "Epoida",
+    "subtitle": "Subordinate",
+    "crewId": "crew:crew-16",
+    "keywords": [
+      "Epoida",
+      "Subordinate",
+      "Gorosei",
+      "World Government"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 321,
+      "url": "https://api.api-onepiece.com/v2/characters/en/321"
+    }
+  },
+  {
+    "id": "character:char-322",
+    "type": "character",
+    "label": "Kechatch",
+    "subtitle": "Subordinate",
+    "crewId": "crew:crew-16",
+    "keywords": [
+      "Kechatch",
+      "Subordinate",
+      "Gorosei",
+      "World Government"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 322,
+      "url": "https://api.api-onepiece.com/v2/characters/en/322"
+    }
+  },
+  {
+    "id": "character:char-323",
+    "type": "character",
+    "label": "Choi",
+    "subtitle": "Subordinate",
+    "crewId": "crew:crew-16",
+    "keywords": [
+      "Choi",
+      "Subordinate",
+      "Gorosei",
+      "World Government"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 323,
+      "url": "https://api.api-onepiece.com/v2/characters/en/323"
+    }
+  },
+  {
+    "id": "character:char-324",
+    "type": "character",
+    "label": "Arhur",
+    "subtitle": "Subordinate",
+    "crewId": "crew:crew-16",
+    "keywords": [
+      "Arhur",
+      "Subordinate",
+      "Gorosei",
+      "World Government"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 324,
+      "url": "https://api.api-onepiece.com/v2/characters/en/324"
+    }
+  },
+  {
+    "id": "character:char-325",
+    "type": "character",
+    "label": "Hangan",
+    "subtitle": "Subordinate",
+    "crewId": "crew:crew-16",
+    "keywords": [
+      "Hangan",
+      "Subordinate",
+      "Gorosei",
+      "World Government"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 325,
+      "url": "https://api.api-onepiece.com/v2/characters/en/325"
+    }
+  },
+  {
+    "id": "character:char-326",
+    "type": "character",
+    "label": "Reforte",
+    "subtitle": "Subordinate",
+    "crewId": "crew:crew-16",
+    "keywords": [
+      "Reforte",
+      "Subordinate",
+      "Gorosei",
+      "World Government"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 326,
+      "url": "https://api.api-onepiece.com/v2/characters/en/326"
+    }
+  },
+  {
+    "id": "character:char-327",
+    "type": "character",
+    "label": "Andre",
+    "subtitle": "Subordinate",
+    "crewId": "crew:crew-16",
+    "keywords": [
+      "Andre",
+      "Subordinate",
+      "Gorosei",
+      "World Government"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 327,
+      "url": "https://api.api-onepiece.com/v2/characters/en/327"
+    }
+  },
+  {
+    "id": "character:char-328",
+    "type": "character",
+    "label": "Ninth",
+    "subtitle": "Subordinate",
+    "crewId": "crew:crew-16",
+    "keywords": [
+      "Ninth",
+      "Subordinate",
+      "Gorosei",
+      "World Government"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 328,
+      "url": "https://api.api-onepiece.com/v2/characters/en/328"
+    }
+  },
+  {
+    "id": "character:char-329",
+    "type": "character",
+    "label": "Blondie",
+    "subtitle": "Subordinate",
+    "crewId": "crew:crew-16",
+    "keywords": [
+      "Blondie",
+      "Subordinate",
+      "Gorosei",
+      "World Government"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 329,
+      "url": "https://api.api-onepiece.com/v2/characters/en/329"
+    }
+  },
+  {
+    "id": "character:char-330",
+    "type": "character",
+    "label": "Nosgarl",
+    "subtitle": "Subordinate",
+    "crewId": "crew:crew-16",
+    "keywords": [
+      "Nosgarl",
+      "Subordinate",
+      "Gorosei",
+      "World Government"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 330,
+      "url": "https://api.api-onepiece.com/v2/characters/en/330"
+    }
+  },
+  {
+    "id": "character:char-331",
+    "type": "character",
+    "label": "Amadob",
+    "subtitle": "Subordinate",
+    "crewId": "crew:crew-16",
+    "keywords": [
+      "Amadob",
+      "Subordinate",
+      "Gorosei",
+      "World Government"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 331,
+      "url": "https://api.api-onepiece.com/v2/characters/en/331"
+    }
+  },
+  {
+    "id": "character:char-332",
+    "type": "character",
+    "label": "Baggaley",
+    "subtitle": "Subordinate",
+    "crewId": "crew:crew-16",
+    "keywords": [
+      "Baggaley",
+      "Subordinate",
+      "Gorosei",
+      "World Government"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 332,
+      "url": "https://api.api-onepiece.com/v2/characters/en/332"
+    }
+  },
+  {
+    "id": "character:char-333",
+    "type": "character",
+    "label": "Wakkem",
+    "subtitle": "Subordinate",
+    "crewId": "crew:crew-16",
+    "keywords": [
+      "Wakkem",
+      "Subordinate",
+      "Gorosei",
+      "World Government"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 333,
+      "url": "https://api.api-onepiece.com/v2/characters/en/333"
+    }
+  },
+  {
+    "id": "character:char-334",
+    "type": "character",
+    "label": "Brew",
+    "subtitle": "Subordinate",
+    "crewId": "crew:crew-16",
+    "keywords": [
+      "Brew",
+      "Subordinate",
+      "Gorosei",
+      "World Government"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 334,
+      "url": "https://api.api-onepiece.com/v2/characters/en/334"
+    }
+  },
+  {
+    "id": "character:char-335",
+    "type": "character",
+    "label": "Brocca",
+    "subtitle": "Subordinate",
+    "crewId": "crew:crew-16",
+    "keywords": [
+      "Brocca",
+      "Subordinate",
+      "Gorosei",
+      "World Government"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 335,
+      "url": "https://api.api-onepiece.com/v2/characters/en/335"
+    }
+  },
+  {
+    "id": "character:char-336",
+    "type": "character",
+    "label": "Rush",
+    "subtitle": "Subordinate",
+    "crewId": "crew:crew-16",
+    "keywords": [
+      "Rush",
+      "Subordinate",
+      "Gorosei",
+      "World Government"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 336,
+      "url": "https://api.api-onepiece.com/v2/characters/en/336"
+    }
+  },
+  {
+    "id": "character:char-337",
+    "type": "character",
+    "label": "Great Micheal",
+    "subtitle": "Subordinate",
+    "crewId": "crew:crew-16",
+    "keywords": [
+      "Great Micheal",
+      "Subordinate",
+      "Gorosei",
+      "World Government"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 337,
+      "url": "https://api.api-onepiece.com/v2/characters/en/337"
+    }
+  },
+  {
+    "id": "character:char-338",
+    "type": "character",
+    "label": "Zucca",
+    "subtitle": "Subordinate",
+    "crewId": "crew:crew-16",
+    "keywords": [
+      "Zucca",
+      "Subordinate",
+      "Gorosei",
+      "World Government"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 338,
+      "url": "https://api.api-onepiece.com/v2/characters/en/338"
+    }
+  },
+  {
+    "id": "character:char-339",
+    "type": "character",
+    "label": "Cands",
+    "subtitle": "Subordinate",
+    "crewId": "crew:crew-16",
+    "keywords": [
+      "Cands",
+      "Subordinate",
+      "Gorosei",
+      "World Government"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 339,
+      "url": "https://api.api-onepiece.com/v2/characters/en/339"
+    }
+  },
+  {
+    "id": "character:char-340",
+    "type": "character",
+    "label": "Kinga",
+    "subtitle": "Subordinate",
+    "crewId": "crew:crew-16",
+    "keywords": [
+      "Kinga",
+      "Subordinate",
+      "Gorosei",
+      "World Government"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 340,
+      "url": "https://api.api-onepiece.com/v2/characters/en/340"
+    }
+  },
+  {
+    "id": "character:char-341",
+    "type": "character",
+    "label": "Colscon",
+    "subtitle": "Subordinate",
+    "crewId": "crew:crew-16",
+    "keywords": [
+      "Colscon",
+      "Subordinate",
+      "Gorosei",
+      "World Government"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 341,
+      "url": "https://api.api-onepiece.com/v2/characters/en/341"
+    }
+  },
+  {
+    "id": "character:char-342",
+    "type": "character",
+    "label": "Agsilly",
+    "subtitle": "Subordinate",
+    "crewId": "crew:crew-16",
+    "keywords": [
+      "Agsilly",
+      "Subordinate",
+      "Gorosei",
+      "World Government"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 342,
+      "url": "https://api.api-onepiece.com/v2/characters/en/342"
+    }
+  },
+  {
+    "id": "character:char-343",
+    "type": "character",
+    "label": "Julius",
+    "subtitle": "Subordinate",
+    "crewId": "crew:crew-16",
+    "keywords": [
+      "Julius",
+      "Subordinate",
+      "Gorosei",
+      "World Government"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 343,
+      "url": "https://api.api-onepiece.com/v2/characters/en/343"
+    }
+  },
+  {
+    "id": "character:char-344",
+    "type": "character",
+    "label": "Happygun",
+    "subtitle": "Subordinate",
+    "crewId": "crew:crew-16",
+    "keywords": [
+      "Happygun",
+      "Subordinate",
+      "Gorosei",
+      "World Government"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 344,
+      "url": "https://api.api-onepiece.com/v2/characters/en/344"
+    }
+  },
+  {
+    "id": "character:char-345",
+    "type": "character",
+    "label": "Sleepy",
+    "subtitle": "Subordinate",
+    "crewId": "crew:crew-16",
+    "keywords": [
+      "Sleepy",
+      "Subordinate",
+      "Gorosei",
+      "World Government"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 345,
+      "url": "https://api.api-onepiece.com/v2/characters/en/345"
+    }
+  },
+  {
+    "id": "character:char-346",
+    "type": "character",
+    "label": "Forliewbs",
+    "subtitle": "Subordinate",
+    "crewId": "crew:crew-16",
+    "keywords": [
+      "Forliewbs",
+      "Subordinate",
+      "Gorosei",
+      "World Government"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 346,
+      "url": "https://api.api-onepiece.com/v2/characters/en/346"
+    }
+  },
+  {
+    "id": "character:char-43",
+    "type": "character",
+    "label": "Montblanc Cricket",
+    "subtitle": "Commander-in-Chief",
+    "crewId": "crew:crew-17",
+    "keywords": [
+      "Montblanc Cricket",
+      "Commander-in-Chief",
+      "Revolutionary Army",
+      "Revolutionary"
+    ],
+    "stats": {
+      "bounty": 25000000
+    },
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 43,
+      "url": "https://api.api-onepiece.com/v2/characters/en/43"
+    }
+  },
+  {
+    "id": "character:char-44",
+    "type": "character",
+    "label": "Masira",
+    "subtitle": "",
+    "crewId": "crew:crew-17",
+    "keywords": [
+      "Masira",
+      "Revolutionary Army",
+      "Revolutionary"
+    ],
+    "stats": {
+      "bounty": 23000000
+    },
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 44,
+      "url": "https://api.api-onepiece.com/v2/characters/en/44"
+    }
+  },
+  {
+    "id": "character:char-45",
+    "type": "character",
+    "label": "Shojo",
+    "subtitle": "",
+    "crewId": "crew:crew-17",
+    "keywords": [
+      "Shojo",
+      "Revolutionary Army",
+      "Revolutionary"
+    ],
+    "stats": {
+      "bounty": 36000000
+    },
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 45,
+      "url": "https://api.api-onepiece.com/v2/characters/en/45"
+    }
+  },
+  {
+    "id": "character:char-365",
+    "type": "character",
+    "label": "Don Quijote Doflamingo",
+    "subtitle": "Captain",
+    "crewId": "crew:crew-21",
+    "keywords": [
+      "Don Quijote Doflamingo",
+      "Captain",
+      "Baroque Works",
+      "Criminal / Syndicate"
+    ],
+    "stats": {
+      "bounty": 340000000
+    },
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 365,
+      "url": "https://api.api-onepiece.com/v2/characters/en/365"
+    }
+  },
+  {
+    "id": "character:char-366",
+    "type": "character",
+    "label": "Trébol",
+    "subtitle": "Lieutenant-Chef",
+    "crewId": "crew:crew-21",
+    "keywords": [
+      "Trébol",
+      "Lieutenant-Chef",
+      "Baroque Works",
+      "Criminal / Syndicate"
+    ],
+    "stats": {
+      "bounty": 99000000
+    },
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 366,
+      "url": "https://api.api-onepiece.com/v2/characters/en/366"
+    }
+  },
+  {
+    "id": "character:char-367",
+    "type": "character",
+    "label": "Diamante",
+    "subtitle": "Lieutenant-Chef",
+    "crewId": "crew:crew-21",
+    "keywords": [
+      "Diamante",
+      "Lieutenant-Chef",
+      "Baroque Works",
+      "Criminal / Syndicate"
+    ],
+    "stats": {
+      "bounty": 99000000
+    },
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 367,
+      "url": "https://api.api-onepiece.com/v2/characters/en/367"
+    }
+  },
+  {
+    "id": "character:char-368",
+    "type": "character",
+    "label": "Pica",
+    "subtitle": "Lieutenant-Chef",
+    "crewId": "crew:crew-21",
+    "keywords": [
+      "Pica",
+      "Lieutenant-Chef",
+      "Baroque Works",
+      "Criminal / Syndicate"
+    ],
+    "stats": {
+      "bounty": 99000000
+    },
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 368,
+      "url": "https://api.api-onepiece.com/v2/characters/en/368"
+    }
+  },
+  {
+    "id": "character:char-369",
+    "type": "character",
+    "label": "Vergo",
+    "subtitle": "Lieutenant-Chef",
+    "crewId": "crew:crew-21",
+    "keywords": [
+      "Vergo",
+      "Lieutenant-Chef",
+      "Baroque Works",
+      "Criminal / Syndicate"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 369,
+      "url": "https://api.api-onepiece.com/v2/characters/en/369"
+    }
+  },
+  {
+    "id": "character:char-370",
+    "type": "character",
+    "label": "Sugar",
+    "subtitle": "Lieutenant of the Trebol Army",
+    "crewId": "crew:crew-21",
+    "keywords": [
+      "Sugar",
+      "Lieutenant of the Trebol Army",
+      "Baroque Works",
+      "Criminal / Syndicate"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 370,
+      "url": "https://api.api-onepiece.com/v2/characters/en/370"
+    }
+  },
+  {
+    "id": "character:char-371",
+    "type": "character",
+    "label": "Jora",
+    "subtitle": "Lieutenant of the Trebol Army",
+    "crewId": "crew:crew-21",
+    "keywords": [
+      "Jora",
+      "Lieutenant of the Trebol Army",
+      "Baroque Works",
+      "Criminal / Syndicate"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 371,
+      "url": "https://api.api-onepiece.com/v2/characters/en/371"
+    }
+  },
+  {
+    "id": "character:char-372",
+    "type": "character",
+    "label": "Lao G",
+    "subtitle": "Lieutenant of the Army of Diamante",
+    "crewId": "crew:crew-21",
+    "keywords": [
+      "Lao G",
+      "Lieutenant of the Army of Diamante",
+      "Baroque Works",
+      "Criminal / Syndicate"
+    ],
+    "stats": {
+      "bounty": 61000000
+    },
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 372,
+      "url": "https://api.api-onepiece.com/v2/characters/en/372"
+    }
+  },
+  {
+    "id": "character:char-373",
+    "type": "character",
+    "label": "Señor Pink",
+    "subtitle": "Lieutenant of the Army of Diamante",
+    "crewId": "crew:crew-21",
+    "keywords": [
+      "Señor Pink",
+      "Lieutenant of the Army of Diamante",
+      "Baroque Works",
+      "Criminal / Syndicate"
+    ],
+    "stats": {
+      "bounty": 58000000
+    },
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 373,
+      "url": "https://api.api-onepiece.com/v2/characters/en/373"
+    }
+  },
+  {
+    "id": "character:char-374",
+    "type": "character",
+    "label": "Machvise",
+    "subtitle": "Lieutenant of the Army of Diamante",
+    "crewId": "crew:crew-21",
+    "keywords": [
+      "Machvise",
+      "Lieutenant of the Army of Diamante",
+      "Baroque Works",
+      "Criminal / Syndicate"
+    ],
+    "stats": {
+      "bounty": 11000000
+    },
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 374,
+      "url": "https://api.api-onepiece.com/v2/characters/en/374"
+    }
+  },
+  {
+    "id": "character:char-375",
+    "type": "character",
+    "label": "Dellinger",
+    "subtitle": "Lieutenant of the Army of Diamante",
+    "crewId": "crew:crew-21",
+    "keywords": [
+      "Dellinger",
+      "Lieutenant of the Army of Diamante",
+      "Baroque Works",
+      "Criminal / Syndicate"
+    ],
+    "stats": {
+      "bounty": 150000000
+    },
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 375,
+      "url": "https://api.api-onepiece.com/v2/characters/en/375"
+    }
+  },
+  {
+    "id": "character:char-376",
+    "type": "character",
+    "label": "Gladius",
+    "subtitle": "Pica Army Lieutenant",
+    "crewId": "crew:crew-21",
+    "keywords": [
+      "Gladius",
+      "Pica Army Lieutenant",
+      "Baroque Works",
+      "Criminal / Syndicate"
+    ],
+    "stats": {
+      "bounty": 31000000
+    },
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 376,
+      "url": "https://api.api-onepiece.com/v2/characters/en/376"
+    }
+  },
+  {
+    "id": "character:char-377",
+    "type": "character",
+    "label": "Buffallo",
+    "subtitle": "Pica Army Lieutenant",
+    "crewId": "crew:crew-21",
+    "keywords": [
+      "Buffallo",
+      "Pica Army Lieutenant",
+      "Baroque Works",
+      "Criminal / Syndicate"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 377,
+      "url": "https://api.api-onepiece.com/v2/characters/en/377"
+    }
+  },
+  {
+    "id": "character:char-378",
+    "type": "character",
+    "label": "Monet",
+    "subtitle": "Lieutenant",
+    "crewId": "crew:crew-21",
+    "keywords": [
+      "Monet",
+      "Lieutenant",
+      "Baroque Works",
+      "Criminal / Syndicate"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 378,
+      "url": "https://api.api-onepiece.com/v2/characters/en/378"
+    }
+  },
+  {
+    "id": "character:char-689",
+    "type": "character",
+    "label": "Bellamy",
+    "subtitle": "Private",
+    "crewId": "crew:crew-21",
+    "keywords": [
+      "Bellamy",
+      "Private",
+      "Baroque Works",
+      "Criminal / Syndicate"
+    ],
+    "stats": {
+      "bounty": 195000000
+    },
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 689,
+      "url": "https://api.api-onepiece.com/v2/characters/en/689"
+    }
+  },
+  {
+    "id": "character:char-247",
+    "type": "character",
+    "label": "Marchall D. Teach / Barbe Noire",
+    "subtitle": "Pirate",
+    "crewId": "crew:crew-22",
+    "keywords": [
+      "Marchall D. Teach / Barbe Noire",
+      "Pirate",
+      "CP9",
+      "World Government"
+    ],
+    "stats": {
+      "bounty": 2247600000
+    },
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 247,
+      "url": "https://api.api-onepiece.com/v2/characters/en/247"
+    }
+  },
+  {
+    "id": "character:char-248",
+    "type": "character",
+    "label": "Jesus Burgess",
+    "subtitle": "Admiral ship's captain",
+    "crewId": "crew:crew-22",
+    "keywords": [
+      "Jesus Burgess",
+      "Admiral ship's captain",
+      "CP9",
+      "World Government"
+    ],
+    "stats": {
+      "bounty": 20000000
+    },
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 248,
+      "url": "https://api.api-onepiece.com/v2/characters/en/248"
+    }
+  },
+  {
+    "id": "character:char-249",
+    "type": "character",
+    "label": "Shiliew",
+    "subtitle": "Commander 2nd Ship",
+    "crewId": "crew:crew-22",
+    "keywords": [
+      "Shiliew",
+      "Commander 2nd Ship",
+      "CP9",
+      "World Government"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 249,
+      "url": "https://api.api-onepiece.com/v2/characters/en/249"
+    }
+  },
+  {
+    "id": "character:char-250",
+    "type": "character",
+    "label": "Van Auger",
+    "subtitle": "Commander 3rd Ship",
+    "crewId": "crew:crew-22",
+    "keywords": [
+      "Van Auger",
+      "Commander 3rd Ship",
+      "CP9",
+      "World Government"
+    ],
+    "stats": {
+      "bounty": 64000000
+    },
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 250,
+      "url": "https://api.api-onepiece.com/v2/characters/en/250"
+    }
+  },
+  {
+    "id": "character:char-251",
+    "type": "character",
+    "label": "Avalo Pizarro",
+    "subtitle": "Commander 4th Ship",
+    "crewId": "crew:crew-22",
+    "keywords": [
+      "Avalo Pizarro",
+      "Commander 4th Ship",
+      "CP9",
+      "World Government"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 251,
+      "url": "https://api.api-onepiece.com/v2/characters/en/251"
+    }
+  },
+  {
+    "id": "character:char-252",
+    "type": "character",
+    "label": "Lafitte",
+    "subtitle": "Commander 5th Ship",
+    "crewId": "crew:crew-22",
+    "keywords": [
+      "Lafitte",
+      "Commander 5th Ship",
+      "CP9",
+      "World Government"
+    ],
+    "stats": {
+      "bounty": 42200000
+    },
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 252,
+      "url": "https://api.api-onepiece.com/v2/characters/en/252"
+    }
+  },
+  {
+    "id": "character:char-253",
+    "type": "character",
+    "label": "Catarina Devon",
+    "subtitle": "Commander 6th Ship",
+    "crewId": "crew:crew-22",
+    "keywords": [
+      "Catarina Devon",
+      "Commander 6th Ship",
+      "CP9",
+      "World Government"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 253,
+      "url": "https://api.api-onepiece.com/v2/characters/en/253"
+    }
+  },
+  {
+    "id": "character:char-254",
+    "type": "character",
+    "label": "Sanjuan Wolf",
+    "subtitle": "Commander 7th Ship",
+    "crewId": "crew:crew-22",
+    "keywords": [
+      "Sanjuan Wolf",
+      "Commander 7th Ship",
+      "CP9",
+      "World Government"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 254,
+      "url": "https://api.api-onepiece.com/v2/characters/en/254"
+    }
+  },
+  {
+    "id": "character:char-255",
+    "type": "character",
+    "label": "Vasco Shot",
+    "subtitle": "Commander 8th Ship",
+    "crewId": "crew:crew-22",
+    "keywords": [
+      "Vasco Shot",
+      "Commander 8th Ship",
+      "CP9",
+      "World Government"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 255,
+      "url": "https://api.api-onepiece.com/v2/characters/en/255"
+    }
+  },
+  {
+    "id": "character:char-256",
+    "type": "character",
+    "label": "Doc Q",
+    "subtitle": "Commander 9th Ship",
+    "crewId": "crew:crew-22",
+    "keywords": [
+      "Doc Q",
+      "Commander 9th Ship",
+      "CP9",
+      "World Government"
+    ],
+    "stats": {
+      "bounty": 72000000
+    },
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 256,
+      "url": "https://api.api-onepiece.com/v2/characters/en/256"
+    }
+  },
+  {
+    "id": "character:char-257",
+    "type": "character",
+    "label": "Barbe Rose",
+    "subtitle": "",
+    "crewId": "crew:crew-22",
+    "keywords": [
+      "Barbe Rose",
+      "CP9",
+      "World Government"
+    ],
+    "stats": {
+      "bounty": 52000000
+    },
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 257,
+      "url": "https://api.api-onepiece.com/v2/characters/en/257"
+    }
+  },
+  {
+    "id": "character:char-762",
+    "type": "character",
+    "label": "Stronger",
+    "subtitle": "Doc Q's horse",
+    "crewId": "crew:crew-22",
+    "keywords": [
+      "Stronger",
+      "Doc Q's horse",
+      "CP9",
+      "World Government"
+    ],
+    "stats": {},
+    "source": {
+      "provider": "api-onepiece.com",
+      "rawId": 762,
+      "url": "https://api.api-onepiece.com/v2/characters/en/762"
+    }
+  }
+]

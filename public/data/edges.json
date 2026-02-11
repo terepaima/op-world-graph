@@ -1,0 +1,1376 @@
+[
+  {
+    "id": "edge:membership:character:char-1->crew:crew-1",
+    "source": "character:char-1",
+    "target": "crew:crew-1",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-2->crew:crew-1",
+    "source": "character:char-2",
+    "target": "crew:crew-1",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-3->crew:crew-1",
+    "source": "character:char-3",
+    "target": "crew:crew-1",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-4->crew:crew-1",
+    "source": "character:char-4",
+    "target": "crew:crew-1",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-5->crew:crew-1",
+    "source": "character:char-5",
+    "target": "crew:crew-1",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-6->crew:crew-1",
+    "source": "character:char-6",
+    "target": "crew:crew-1",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-7->crew:crew-1",
+    "source": "character:char-7",
+    "target": "crew:crew-1",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-8->crew:crew-1",
+    "source": "character:char-8",
+    "target": "crew:crew-1",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-9->crew:crew-1",
+    "source": "character:char-9",
+    "target": "crew:crew-1",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-10->crew:crew-1",
+    "source": "character:char-10",
+    "target": "crew:crew-1",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-11->crew:crew-1",
+    "source": "character:char-11",
+    "target": "crew:crew-1",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-85->crew:crew-2",
+    "source": "character:char-85",
+    "target": "crew:crew-2",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-86->crew:crew-2",
+    "source": "character:char-86",
+    "target": "crew:crew-2",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-87->crew:crew-2",
+    "source": "character:char-87",
+    "target": "crew:crew-2",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-88->crew:crew-2",
+    "source": "character:char-88",
+    "target": "crew:crew-2",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-89->crew:crew-2",
+    "source": "character:char-89",
+    "target": "crew:crew-2",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-90->crew:crew-2",
+    "source": "character:char-90",
+    "target": "crew:crew-2",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-91->crew:crew-2",
+    "source": "character:char-91",
+    "target": "crew:crew-2",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-92->crew:crew-2",
+    "source": "character:char-92",
+    "target": "crew:crew-2",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-93->crew:crew-2",
+    "source": "character:char-93",
+    "target": "crew:crew-2",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-94->crew:crew-2",
+    "source": "character:char-94",
+    "target": "crew:crew-2",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-95->crew:crew-2",
+    "source": "character:char-95",
+    "target": "crew:crew-2",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-258->crew:crew-5",
+    "source": "character:char-258",
+    "target": "crew:crew-5",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-259->crew:crew-5",
+    "source": "character:char-259",
+    "target": "crew:crew-5",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-260->crew:crew-5",
+    "source": "character:char-260",
+    "target": "crew:crew-5",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-261->crew:crew-5",
+    "source": "character:char-261",
+    "target": "crew:crew-5",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-262->crew:crew-5",
+    "source": "character:char-262",
+    "target": "crew:crew-5",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-263->crew:crew-5",
+    "source": "character:char-263",
+    "target": "crew:crew-5",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-264->crew:crew-5",
+    "source": "character:char-264",
+    "target": "crew:crew-5",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-265->crew:crew-5",
+    "source": "character:char-265",
+    "target": "crew:crew-5",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-266->crew:crew-5",
+    "source": "character:char-266",
+    "target": "crew:crew-5",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-267->crew:crew-5",
+    "source": "character:char-267",
+    "target": "crew:crew-5",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-268->crew:crew-5",
+    "source": "character:char-268",
+    "target": "crew:crew-5",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-269->crew:crew-5",
+    "source": "character:char-269",
+    "target": "crew:crew-5",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-270->crew:crew-5",
+    "source": "character:char-270",
+    "target": "crew:crew-5",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-271->crew:crew-5",
+    "source": "character:char-271",
+    "target": "crew:crew-5",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-272->crew:crew-5",
+    "source": "character:char-272",
+    "target": "crew:crew-5",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-273->crew:crew-5",
+    "source": "character:char-273",
+    "target": "crew:crew-5",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-274->crew:crew-5",
+    "source": "character:char-274",
+    "target": "crew:crew-5",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-275->crew:crew-5",
+    "source": "character:char-275",
+    "target": "crew:crew-5",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-276->crew:crew-5",
+    "source": "character:char-276",
+    "target": "crew:crew-5",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-277->crew:crew-5",
+    "source": "character:char-277",
+    "target": "crew:crew-5",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-278->crew:crew-5",
+    "source": "character:char-278",
+    "target": "crew:crew-5",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-279->crew:crew-5",
+    "source": "character:char-279",
+    "target": "crew:crew-5",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-280->crew:crew-5",
+    "source": "character:char-280",
+    "target": "crew:crew-5",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-281->crew:crew-5",
+    "source": "character:char-281",
+    "target": "crew:crew-5",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-37->crew:crew-7",
+    "source": "character:char-37",
+    "target": "crew:crew-7",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-38->crew:crew-7",
+    "source": "character:char-38",
+    "target": "crew:crew-7",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-39->crew:crew-7",
+    "source": "character:char-39",
+    "target": "crew:crew-7",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-40->crew:crew-8",
+    "source": "character:char-40",
+    "target": "crew:crew-8",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-41->crew:crew-8",
+    "source": "character:char-41",
+    "target": "crew:crew-8",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-42->crew:crew-8",
+    "source": "character:char-42",
+    "target": "crew:crew-8",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-282->crew:crew-10",
+    "source": "character:char-282",
+    "target": "crew:crew-10",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-283->crew:crew-10",
+    "source": "character:char-283",
+    "target": "crew:crew-10",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-284->crew:crew-10",
+    "source": "character:char-284",
+    "target": "crew:crew-10",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-285->crew:crew-12",
+    "source": "character:char-285",
+    "target": "crew:crew-12",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-286->crew:crew-12",
+    "source": "character:char-286",
+    "target": "crew:crew-12",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-287->crew:crew-12",
+    "source": "character:char-287",
+    "target": "crew:crew-12",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-289->crew:crew-16",
+    "source": "character:char-289",
+    "target": "crew:crew-16",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-290->crew:crew-16",
+    "source": "character:char-290",
+    "target": "crew:crew-16",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-291->crew:crew-16",
+    "source": "character:char-291",
+    "target": "crew:crew-16",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-292->crew:crew-16",
+    "source": "character:char-292",
+    "target": "crew:crew-16",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-293->crew:crew-16",
+    "source": "character:char-293",
+    "target": "crew:crew-16",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-294->crew:crew-16",
+    "source": "character:char-294",
+    "target": "crew:crew-16",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-295->crew:crew-16",
+    "source": "character:char-295",
+    "target": "crew:crew-16",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-296->crew:crew-16",
+    "source": "character:char-296",
+    "target": "crew:crew-16",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-297->crew:crew-16",
+    "source": "character:char-297",
+    "target": "crew:crew-16",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-298->crew:crew-16",
+    "source": "character:char-298",
+    "target": "crew:crew-16",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-299->crew:crew-16",
+    "source": "character:char-299",
+    "target": "crew:crew-16",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-300->crew:crew-16",
+    "source": "character:char-300",
+    "target": "crew:crew-16",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-301->crew:crew-16",
+    "source": "character:char-301",
+    "target": "crew:crew-16",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-302->crew:crew-16",
+    "source": "character:char-302",
+    "target": "crew:crew-16",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-303->crew:crew-16",
+    "source": "character:char-303",
+    "target": "crew:crew-16",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-304->crew:crew-16",
+    "source": "character:char-304",
+    "target": "crew:crew-16",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-305->crew:crew-16",
+    "source": "character:char-305",
+    "target": "crew:crew-16",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-306->crew:crew-16",
+    "source": "character:char-306",
+    "target": "crew:crew-16",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-307->crew:crew-16",
+    "source": "character:char-307",
+    "target": "crew:crew-16",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-308->crew:crew-16",
+    "source": "character:char-308",
+    "target": "crew:crew-16",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-309->crew:crew-16",
+    "source": "character:char-309",
+    "target": "crew:crew-16",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-310->crew:crew-16",
+    "source": "character:char-310",
+    "target": "crew:crew-16",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-311->crew:crew-16",
+    "source": "character:char-311",
+    "target": "crew:crew-16",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-312->crew:crew-16",
+    "source": "character:char-312",
+    "target": "crew:crew-16",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-313->crew:crew-16",
+    "source": "character:char-313",
+    "target": "crew:crew-16",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-314->crew:crew-16",
+    "source": "character:char-314",
+    "target": "crew:crew-16",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-315->crew:crew-16",
+    "source": "character:char-315",
+    "target": "crew:crew-16",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-316->crew:crew-16",
+    "source": "character:char-316",
+    "target": "crew:crew-16",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-317->crew:crew-16",
+    "source": "character:char-317",
+    "target": "crew:crew-16",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-318->crew:crew-16",
+    "source": "character:char-318",
+    "target": "crew:crew-16",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-319->crew:crew-16",
+    "source": "character:char-319",
+    "target": "crew:crew-16",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-320->crew:crew-16",
+    "source": "character:char-320",
+    "target": "crew:crew-16",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-321->crew:crew-16",
+    "source": "character:char-321",
+    "target": "crew:crew-16",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-322->crew:crew-16",
+    "source": "character:char-322",
+    "target": "crew:crew-16",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-323->crew:crew-16",
+    "source": "character:char-323",
+    "target": "crew:crew-16",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-324->crew:crew-16",
+    "source": "character:char-324",
+    "target": "crew:crew-16",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-325->crew:crew-16",
+    "source": "character:char-325",
+    "target": "crew:crew-16",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-326->crew:crew-16",
+    "source": "character:char-326",
+    "target": "crew:crew-16",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-327->crew:crew-16",
+    "source": "character:char-327",
+    "target": "crew:crew-16",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-328->crew:crew-16",
+    "source": "character:char-328",
+    "target": "crew:crew-16",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-329->crew:crew-16",
+    "source": "character:char-329",
+    "target": "crew:crew-16",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-330->crew:crew-16",
+    "source": "character:char-330",
+    "target": "crew:crew-16",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-331->crew:crew-16",
+    "source": "character:char-331",
+    "target": "crew:crew-16",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-332->crew:crew-16",
+    "source": "character:char-332",
+    "target": "crew:crew-16",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-333->crew:crew-16",
+    "source": "character:char-333",
+    "target": "crew:crew-16",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-334->crew:crew-16",
+    "source": "character:char-334",
+    "target": "crew:crew-16",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-335->crew:crew-16",
+    "source": "character:char-335",
+    "target": "crew:crew-16",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-336->crew:crew-16",
+    "source": "character:char-336",
+    "target": "crew:crew-16",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-337->crew:crew-16",
+    "source": "character:char-337",
+    "target": "crew:crew-16",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-338->crew:crew-16",
+    "source": "character:char-338",
+    "target": "crew:crew-16",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-339->crew:crew-16",
+    "source": "character:char-339",
+    "target": "crew:crew-16",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-340->crew:crew-16",
+    "source": "character:char-340",
+    "target": "crew:crew-16",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-341->crew:crew-16",
+    "source": "character:char-341",
+    "target": "crew:crew-16",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-342->crew:crew-16",
+    "source": "character:char-342",
+    "target": "crew:crew-16",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-343->crew:crew-16",
+    "source": "character:char-343",
+    "target": "crew:crew-16",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-344->crew:crew-16",
+    "source": "character:char-344",
+    "target": "crew:crew-16",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-345->crew:crew-16",
+    "source": "character:char-345",
+    "target": "crew:crew-16",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-346->crew:crew-16",
+    "source": "character:char-346",
+    "target": "crew:crew-16",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-43->crew:crew-17",
+    "source": "character:char-43",
+    "target": "crew:crew-17",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-44->crew:crew-17",
+    "source": "character:char-44",
+    "target": "crew:crew-17",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-45->crew:crew-17",
+    "source": "character:char-45",
+    "target": "crew:crew-17",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-365->crew:crew-21",
+    "source": "character:char-365",
+    "target": "crew:crew-21",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-366->crew:crew-21",
+    "source": "character:char-366",
+    "target": "crew:crew-21",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-367->crew:crew-21",
+    "source": "character:char-367",
+    "target": "crew:crew-21",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-368->crew:crew-21",
+    "source": "character:char-368",
+    "target": "crew:crew-21",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-369->crew:crew-21",
+    "source": "character:char-369",
+    "target": "crew:crew-21",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-370->crew:crew-21",
+    "source": "character:char-370",
+    "target": "crew:crew-21",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-371->crew:crew-21",
+    "source": "character:char-371",
+    "target": "crew:crew-21",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-372->crew:crew-21",
+    "source": "character:char-372",
+    "target": "crew:crew-21",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-373->crew:crew-21",
+    "source": "character:char-373",
+    "target": "crew:crew-21",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-374->crew:crew-21",
+    "source": "character:char-374",
+    "target": "crew:crew-21",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-375->crew:crew-21",
+    "source": "character:char-375",
+    "target": "crew:crew-21",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-376->crew:crew-21",
+    "source": "character:char-376",
+    "target": "crew:crew-21",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-377->crew:crew-21",
+    "source": "character:char-377",
+    "target": "crew:crew-21",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-378->crew:crew-21",
+    "source": "character:char-378",
+    "target": "crew:crew-21",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-689->crew:crew-21",
+    "source": "character:char-689",
+    "target": "crew:crew-21",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-247->crew:crew-22",
+    "source": "character:char-247",
+    "target": "crew:crew-22",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-248->crew:crew-22",
+    "source": "character:char-248",
+    "target": "crew:crew-22",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-249->crew:crew-22",
+    "source": "character:char-249",
+    "target": "crew:crew-22",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-250->crew:crew-22",
+    "source": "character:char-250",
+    "target": "crew:crew-22",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-251->crew:crew-22",
+    "source": "character:char-251",
+    "target": "crew:crew-22",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-252->crew:crew-22",
+    "source": "character:char-252",
+    "target": "crew:crew-22",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-253->crew:crew-22",
+    "source": "character:char-253",
+    "target": "crew:crew-22",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-254->crew:crew-22",
+    "source": "character:char-254",
+    "target": "crew:crew-22",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-255->crew:crew-22",
+    "source": "character:char-255",
+    "target": "crew:crew-22",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-256->crew:crew-22",
+    "source": "character:char-256",
+    "target": "crew:crew-22",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-257->crew:crew-22",
+    "source": "character:char-257",
+    "target": "crew:crew-22",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:membership:character:char-762->crew:crew-22",
+    "source": "character:char-762",
+    "target": "crew:crew-22",
+    "type": "membership",
+    "curated": false,
+    "direction": "undirected",
+    "label": "Membership"
+  },
+  {
+    "id": "edge:mentor:character:char-1->character:char-85",
+    "source": "character:char-1",
+    "target": "character:char-85",
+    "type": "mentor",
+    "curated": true,
+    "direction": "directed",
+    "label": "mentor",
+    "evidence": {
+      "note": "Shanks is a defining mentor figure for Luffy."
+    }
+  },
+  {
+    "id": "edge:enemy:character:char-3->character:char-282",
+    "source": "character:char-3",
+    "target": "character:char-282",
+    "type": "enemy",
+    "curated": true,
+    "direction": "undirected",
+    "label": "enemy",
+    "evidence": {
+      "note": "Arlong is Nami's main antagonist in her origin arc."
+    }
+  },
+  {
+    "id": "edge:enemy:character:char-1->character:char-247",
+    "source": "character:char-1",
+    "target": "character:char-247",
+    "type": "enemy",
+    "curated": true,
+    "direction": "undirected",
+    "label": "enemy",
+    "evidence": {
+      "note": "Luffy and Blackbeard are opposing forces."
+    }
+  },
+  {
+    "id": "edge:family:character:char-290->character:char-1",
+    "source": "character:char-290",
+    "target": "character:char-1",
+    "type": "family",
+    "curated": true,
+    "direction": "undirected",
+    "label": "family",
+    "evidence": {
+      "note": "Ace and Luffy are brothers."
+    }
+  },
+  {
+    "id": "edge:mentor:character:char-259->character:char-1",
+    "source": "character:char-259",
+    "target": "character:char-1",
+    "type": "mentor",
+    "curated": true,
+    "direction": "directed",
+    "label": "mentor",
+    "evidence": {
+      "note": "Rayleigh trains Luffy during the timeskip."
+    }
+  }
+]
