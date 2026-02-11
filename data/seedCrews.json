@@ -1,0 +1,29 @@
+[
+  { "crewId": "straw-hat-pirates", "label": "Straw Hat Pirates", "group": "Pirates" },
+  { "crewId": "red-hair-pirates", "label": "Red Hair Pirates", "group": "Pirates" },
+  { "crewId": "whitebeard-pirates", "label": "Whitebeard Pirates", "group": "Pirates" },
+  { "crewId": "blackbeard-pirates", "label": "Blackbeard Pirates", "group": "Pirates" },
+  { "crewId": "big-mom-pirates", "label": "Big Mom Pirates", "group": "Pirates" },
+  { "crewId": "beast-pirates", "label": "Beast Pirates", "group": "Pirates" },
+  { "crewId": "heart-pirates", "label": "Heart Pirates", "group": "Pirates" },
+  { "crewId": "kid-pirates", "label": "Kid Pirates", "group": "Pirates" },
+  { "crewId": "donquixote-pirates", "label": "Donquixote Pirates", "group": "Pirates" },
+  { "crewId": "kuja-pirates", "label": "Kuja Pirates", "group": "Pirates" },
+  { "crewId": "buggy-pirates", "label": "Buggy Pirates", "group": "Pirates" },
+
+  { "crewId": "marines", "label": "Marines", "group": "Marines" },
+  { "crewId": "cipher-pol", "label": "Cipher Pol", "group": "World Government" },
+  { "crewId": "world-government", "label": "World Government", "group": "World Government" },
+  { "crewId": "seven-warlords", "label": "Seven Warlords of the Sea", "group": "World Government" },
+  { "crewId": "gorosei", "label": "Gorosei", "group": "World Government" },
+
+  { "crewId": "revolutionary-army", "label": "Revolutionary Army", "group": "Revolutionary" },
+
+  { "crewId": "roger-pirates", "label": "Roger Pirates", "group": "Pirates" },
+  { "crewId": "rocks-pirates", "label": "Rocks Pirates", "group": "Pirates" },
+  { "crewId": "sun-pirates", "label": "Sun Pirates", "group": "Pirates" },
+
+  { "crewId": "baroque-works", "label": "Baroque Works", "group": "Criminal / Syndicate" },
+  { "crewId": "cp9", "label": "CP9", "group": "World Government" },
+  { "crewId": "cp0", "label": "CP0", "group": "World Government" }
+]

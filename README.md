@@ -37,4 +37,28 @@ Some goals to maintain during the development:
 See GitHub Issues...
 
 ## Dev notes:
+
 - `Prettier + Eslint` is installed to autoformat. Run manually with `pnpm run lint + pnpm run format`
+
+## Data Pipeline
+
+### How to add a crew to v1 dataset
+
+The v1 dataset is controlled by `data/seedCrews.json`.
+
+This keeps scope stable and guarantees a predictable graph size.
+
+#### Step 1 — Add a new entry
+
+Open `data/seedCrews.json` and append:
+
+```json
+{ "crewId": "<api crew id>", "label": "<Human name>", "group": "<Optional grouping>" }
+
+
+#### Step 2 — Rebuild the dataset:
+- pnpm data:build
+
+#### Step 3 — Verify in the app:
+Start the app and confirm the crew appears on /graph.
+```
