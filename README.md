@@ -100,3 +100,7 @@ Curated edges are handcrafted relationships that go beyond automatic membership 
   },
 ]
 ```
+
+## Color pallete inspiration
+
+https://colorhunt.co/palette/914f1edeac80f7dcb9b5c18e

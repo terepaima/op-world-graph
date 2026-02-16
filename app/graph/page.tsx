@@ -8,7 +8,7 @@ import { useState } from 'react';
 export default function Home() {
   const [detailsPanelsOpen, setDetailsPanelsOpen] = useState(true);
   return (
-    <div className="flex min-h-screen items-center justify-center bg-zinc-50 font-sans dark:bg-pink-500">
+    <div className="flex min-h-screen items-center justify-center bg-zinc-50 font-sans">
       <GraphStage />
       <ControlsPanelContainer />
       <DetailsPanelContainer

@@ -6,32 +6,36 @@ function ControlsPanelContainer() {
   const [isOpen, setIsOpen] = useState(true);
 
   return (
-    <>
-      {isOpen && (
-        <div className="fixed inset-0 flex items-center justify-center pointer-events-none z-40">
-          <div className="bg-white/70 backdrop-blur-md border border-gray-200 dark:bg-black/70 dark:border-gray-700 rounded-lg p-6 w-80 max-h-[60dvh] overflow-y-auto flex flex-col items-center gap-4 pointer-events-auto shadow-lg">
-            <button
-              onClick={() => setIsOpen(false)}
-              className="self-end p-1 hover:bg-gray-200 dark:hover:bg-gray-700 rounded transition"
-            >
-              <ChevronUp size={20} />
-            </button>
-            <div className="flex-1 flex items-center justify-center">
-              <p>ControlsPanelContainer</p>
-            </div>
-          </div>
-        </div>
-      )}
-
-      {!isOpen && (
+    <div className="flex items-start z-40 sm:items-center ">
+      <div
+        className={
+          'fixed left-6 mt-[86] inset-0 flex items-start flex-col justify-start border dark:bg-[#b5c18e] border-gray-200 max-w-96 shadow-lg rounded-lg h-max sm:w-fit' +
+          (isOpen ? 'w-full' : ' w-fit')
+        }
+      >
         <button
-          onClick={() => setIsOpen(true)}
-          className="fixed bottom-6 right-6 z-40 p-3 bg-white/70 backdrop-blur-md border border-gray-200 dark:bg-black/70 dark:border-gray-700 rounded-lg hover:bg-white/90 dark:hover:bg-black/90 transition shadow-lg"
+          onClick={() => setIsOpen((old) => !old)}
+          className={
+            'p-3 bg-[#b5c18e] backdrop-blur-md' +
+            (isOpen ? ' w-full' : ' w-10') +
+            ' hover:bg-lime-100 dark:hover:bg-lime-100 transition  sm:items-center sm:mt-[0] sm:left-6 sm:flex sm:top-auto text-amber-950 justify-between rounded-lg flex flex-row'
+          }
         >
-          <ChevronDown size={20} />
+          {isOpen && <h3 className="text-xl font-bold mr-2">ControlsPanelContainer</h3>}
+          {isOpen ? <ChevronUp size={20} /> : <ChevronDown size={20} />}
         </button>
-      )}
-    </>
+        {isOpen && (
+          <div className="flex-1 flex flex-col items-center justify-center text-amber-950 max-h-64 overflow-y-auto mx-auto pb-4">
+            <p>Here&apos;s going to be some filters</p>
+            <p>Filter #1 Name</p>
+            <p>Filter #2 Bounty</p>
+            <p>Filter #3 Crew</p>
+            <p>Filter #4 Organization</p>
+            <p>Filter #5 Relationships</p>
+          </div>
+        )}
+      </div>
+    </div>
   );
 }
 
